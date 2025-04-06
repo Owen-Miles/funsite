@@ -23,6 +23,15 @@ const routes = [
       import(/* webpackChunkName: "about" */ "../views/About.vue"),
   },
   {
+    path: "/oldtime",
+    name: "OldTimeMusic",
+    component: () =>
+      import(
+        /* webpackChunkName: "OldTimeMusic" */
+        "../components/OldTimeMusicChart.vue"
+      ),
+  },
+  {
     path: "/mafs1",
     name: "MarriedAtFirstSightStatic",
     component: () =>

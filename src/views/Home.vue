@@ -102,6 +102,14 @@ export default {
   data: () => ({
     links: [
       {
+        title: "Old Time Music Chart",
+        link: "/oldtime",
+        description:
+          "a D3 chart showing the cumulative number of tunes played on a given date",
+        source: require("../assets/galleryThumbs/carbonFourteen.jpg"),
+        tab: "",
+      },
+      {
         title: "Radiocarbon Dating",
         link: "/carbon-fourteen",
         description:
@@ -139,7 +147,6 @@ export default {
         source: require("../assets/mapArt/Tomatos.jpg"),
         tab: "",
       },
-      // tomato-product-cycle
       {
         title: "Random D3 sin wave",
         link: "/random-wave",

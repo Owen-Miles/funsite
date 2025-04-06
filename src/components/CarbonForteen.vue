@@ -132,7 +132,6 @@
 
 <script>
 import * as d3 from "d3";
-// import rawData from "../lib/data/covidData.json";
 
 const carbon14Calc = (depletion) => {
   return -8033 * Math.log(1 + depletion);
