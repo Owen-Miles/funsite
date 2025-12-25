@@ -1,4 +1,4 @@
-import { Container, Grid, Card, CardMedia, CardContent, Typography, Box, Divider } from '@mui/material';
+import { Container, Grid, Card, CardMedia, CardContent, Typography, Box } from '@mui/material';
 import { Link } from 'react-router-dom';
 
 interface GalleryItem {
@@ -64,6 +64,18 @@ function Gallery() {
             link: '/map-art-nj',
             description: 'a nice looking dataset from a remediation project',
             image: '/assets/galleryThumbs/NjMapArt.jpg',
+        },
+        {
+            title: 'DyeLIF 3D Visualization',
+            link: '/dyelif',
+            description: '3D groundwater contamination modeling using Kriging interpolation',
+            image: '/assets/galleryThumbs/dyeLif.jpg',
+        },
+        {
+            title: 'Triangle Layer Model',
+            link: '/triangle-layer',
+            description: '3D groundwater flow model with triangular mesh and geologic layers',
+            image: '/assets/galleryThumbs/triangleModflow.jpg',
         },
     ];
 

@@ -67,13 +67,13 @@ Components are listed by complexity (easy → complex)
 - [ ] **TimelineResume.vue** → TimelineResume.jsx
 
 #### Complex Components (3D/Advanced)
-- [ ] **TriangleLayer.vue** → TriangleLayer.jsx
-- [ ] **DyeLif.vue** → DyeLif.jsx (X3DOM integration)
-  - [ ] DyeLifInput.vue
-  - [ ] DyeLifLego.vue
-  - [ ] DyeLifLinear.vue
-  - [ ] DyeLifSmooth.vue
-  - [ ] triangleLayer.vue
+- [x] **TriangleLayer.vue** → TriangleLayer.tsx ✓
+- [x] **DyeLif.vue** → DyeLif.tsx ✓ (X3DOM integration)
+  - [x] DyeLifInput.vue → DyeLifInput.tsx ✓
+  - [x] DyeLifLego.vue → DyeLifLego.tsx ✓
+  - [x] DyeLifLinear.vue → DyeLifLinear.tsx ✓
+  - [x] DyeLifSmooth.vue → DyeLifSmooth.tsx ✓
+  - [x] triangleLayer.vue → triangleLayer.tsx ✓
 
 ### Phase 4: Utilities & Data
 - [ ] **lib/utils/d3Helpers.js** → Port to React utils
@@ -161,7 +161,7 @@ npm run dev
 
 **Phase:** 3 - Component Migration  
 **Current Step:** Migrating individual components  
-**Components Migrated:** 2 / 18 (Template.vue excluded)  
+**Components Migrated:** 15 / 18 (Template.vue excluded)  
 **Last Updated:** December 25, 2025
 
 ### What's Working:
@@ -198,9 +198,10 @@ npm run dev
 - [React Router v6 Docs](https://reactrouter.com/)
 
 
-# Follow up TODOS I'm noticing:
+# Follow up TODOs I'm noticing:
 - [ ] standardize padding in the gallery
 - [ ] decide if text-on-top or not
 - [ ] remove css and use sx props
 - [ ] transitions on the MAFS things still aint working
-- [ ] pidgeon logo
+- [x] pidgeon logo
+- [ ] triangle layer color not showing :(

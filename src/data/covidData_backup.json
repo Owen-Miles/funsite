@@ -1,0 +1,3377 @@
+[
+    {
+        "Date": "3/1/2020",
+        "DailyTest": 2,
+        "PositiveResults": 1,
+        "WW_Daily_copiesPml": "",
+        "InHospital": "",
+        "InICU": "",
+        "Intubated": ""
+    },
+    {
+        "Date": "3/2/2020",
+        "DailyTest": 3,
+        "PositiveResults": 0,
+        "WW_Daily_copiesPml": "",
+        "InHospital": "",
+        "InICU": "",
+        "Intubated": ""
+    },
+    {
+        "Date": "3/3/2020",
+        "DailyTest": 14,
+        "PositiveResults": 1,
+        "WW_Daily_copiesPml": "",
+        "InHospital": "",
+        "InICU": "",
+        "Intubated": ""
+    },
+    {
+        "Date": "3/4/2020",
+        "DailyTest": 18,
+        "PositiveResults": 2,
+        "WW_Daily_copiesPml": "",
+        "InHospital": "",
+        "InICU": "",
+        "Intubated": ""
+    },
+    {
+        "Date": "3/5/2020",
+        "DailyTest": 32,
+        "PositiveResults": 8,
+        "WW_Daily_copiesPml": "",
+        "InHospital": "",
+        "InICU": "",
+        "Intubated": ""
+    },
+    {
+        "Date": "3/6/2020",
+        "DailyTest": 38,
+        "PositiveResults": 14,
+        "WW_Daily_copiesPml": "",
+        "InHospital": "",
+        "InICU": "",
+        "Intubated": ""
+    },
+    {
+        "Date": "3/7/2020",
+        "DailyTest": 83,
+        "PositiveResults": 44,
+        "WW_Daily_copiesPml": "",
+        "InHospital": "",
+        "InICU": "",
+        "Intubated": ""
+    },
+    {
+        "Date": "3/8/2020",
+        "DailyTest": 55,
+        "PositiveResults": 19,
+        "WW_Daily_copiesPml": "",
+        "InHospital": "",
+        "InICU": "",
+        "Intubated": ""
+    },
+    {
+        "Date": "3/9/2020",
+        "DailyTest": 70,
+        "PositiveResults": 5,
+        "WW_Daily_copiesPml": 29,
+        "InHospital": "",
+        "InICU": "",
+        "Intubated": ""
+    },
+    {
+        "Date": "3/10/2020",
+        "DailyTest": 99,
+        "PositiveResults": 14,
+        "WW_Daily_copiesPml": 26.5,
+        "InHospital": "",
+        "InICU": "",
+        "Intubated": ""
+    },
+    {
+        "Date": "3/11/2020",
+        "DailyTest": 166,
+        "PositiveResults": 22,
+        "WW_Daily_copiesPml": 48,
+        "InHospital": "",
+        "InICU": "",
+        "Intubated": ""
+    },
+    {
+        "Date": "3/12/2020",
+        "DailyTest": 397,
+        "PositiveResults": 29,
+        "WW_Daily_copiesPml": 30.5,
+        "InHospital": "",
+        "InICU": "",
+        "Intubated": ""
+    },
+    {
+        "Date": "3/13/2020",
+        "DailyTest": 889,
+        "PositiveResults": 61,
+        "WW_Daily_copiesPml": "",
+        "InHospital": "",
+        "InICU": "",
+        "Intubated": ""
+    },
+    {
+        "Date": "3/14/2020",
+        "DailyTest": 848,
+        "PositiveResults": 73,
+        "WW_Daily_copiesPml": 21.5,
+        "InHospital": "",
+        "InICU": "",
+        "Intubated": ""
+    },
+    {
+        "Date": "3/15/2020",
+        "DailyTest": 980,
+        "PositiveResults": 68,
+        "WW_Daily_copiesPml": 46,
+        "InHospital": "",
+        "InICU": "",
+        "Intubated": ""
+    },
+    {
+        "Date": "3/16/2020",
+        "DailyTest": 2029,
+        "PositiveResults": 150,
+        "WW_Daily_copiesPml": 28,
+        "InHospital": "",
+        "InICU": "",
+        "Intubated": ""
+    },
+    {
+        "Date": "3/17/2020",
+        "DailyTest": 2556,
+        "PositiveResults": 249,
+        "WW_Daily_copiesPml": 92,
+        "InHospital": "",
+        "InICU": "",
+        "Intubated": ""
+    },
+    {
+        "Date": "3/18/2020",
+        "DailyTest": 2821,
+        "PositiveResults": 259,
+        "WW_Daily_copiesPml": 55,
+        "InHospital": "",
+        "InICU": "",
+        "Intubated": ""
+    },
+    {
+        "Date": "3/19/2020",
+        "DailyTest": 2750,
+        "PositiveResults": 278,
+        "WW_Daily_copiesPml": 34,
+        "InHospital": "",
+        "InICU": "",
+        "Intubated": ""
+    },
+    {
+        "Date": "3/20/2020",
+        "DailyTest": 3473,
+        "PositiveResults": 388,
+        "WW_Daily_copiesPml": "",
+        "InHospital": "",
+        "InICU": "",
+        "Intubated": ""
+    },
+    {
+        "Date": "3/21/2020",
+        "DailyTest": 2422,
+        "PositiveResults": 322,
+        "WW_Daily_copiesPml": "",
+        "InHospital": "",
+        "InICU": "",
+        "Intubated": ""
+    },
+    {
+        "Date": "3/22/2020",
+        "DailyTest": 1790,
+        "PositiveResults": 286,
+        "WW_Daily_copiesPml": "",
+        "InHospital": "",
+        "InICU": "",
+        "Intubated": ""
+    },
+    {
+        "Date": "3/23/2020",
+        "DailyTest": 3580,
+        "PositiveResults": 609,
+        "WW_Daily_copiesPml": 263,
+        "InHospital": "",
+        "InICU": "",
+        "Intubated": ""
+    },
+    {
+        "Date": "3/24/2020",
+        "DailyTest": 3801,
+        "PositiveResults": 718,
+        "WW_Daily_copiesPml": 321,
+        "InHospital": "",
+        "InICU": "",
+        "Intubated": ""
+    },
+    {
+        "Date": "3/25/2020",
+        "DailyTest": 3853,
+        "PositiveResults": 747,
+        "WW_Daily_copiesPml": 129,
+        "InHospital": "",
+        "InICU": "",
+        "Intubated": ""
+    },
+    {
+        "Date": "3/26/2020",
+        "DailyTest": 4179,
+        "PositiveResults": 935,
+        "WW_Daily_copiesPml": 204.5,
+        "InHospital": "",
+        "InICU": "",
+        "Intubated": ""
+    },
+    {
+        "Date": "3/27/2020",
+        "DailyTest": 4129,
+        "PositiveResults": 943,
+        "WW_Daily_copiesPml": 166.5,
+        "InHospital": "",
+        "InICU": "",
+        "Intubated": ""
+    },
+    {
+        "Date": "3/28/2020",
+        "DailyTest": 2642,
+        "PositiveResults": 654,
+        "WW_Daily_copiesPml": "",
+        "InHospital": "",
+        "InICU": "",
+        "Intubated": ""
+    },
+    {
+        "Date": "3/29/2020",
+        "DailyTest": 1971,
+        "PositiveResults": 523,
+        "WW_Daily_copiesPml": "",
+        "InHospital": "",
+        "InICU": "",
+        "Intubated": ""
+    },
+    {
+        "Date": "3/30/2020",
+        "DailyTest": 4788,
+        "PositiveResults": 1238,
+        "WW_Daily_copiesPml": 132.5,
+        "InHospital": "",
+        "InICU": "",
+        "Intubated": ""
+    },
+    {
+        "Date": "3/31/2020",
+        "DailyTest": 4978,
+        "PositiveResults": 1266,
+        "WW_Daily_copiesPml": "",
+        "InHospital": "",
+        "InICU": "",
+        "Intubated": ""
+    },
+    {
+        "Date": "4/1/2020",
+        "DailyTest": 4697,
+        "PositiveResults": 1338,
+        "WW_Daily_copiesPml": 309,
+        "InHospital": "",
+        "InICU": "",
+        "Intubated": ""
+    },
+    {
+        "Date": "4/2/2020",
+        "DailyTest": 4953,
+        "PositiveResults": 1275,
+        "WW_Daily_copiesPml": "",
+        "InHospital": "",
+        "InICU": "",
+        "Intubated": ""
+    },
+    {
+        "Date": "4/3/2020",
+        "DailyTest": 5415,
+        "PositiveResults": 1479,
+        "WW_Daily_copiesPml": 335.5,
+        "InHospital": "",
+        "InICU": "",
+        "Intubated": ""
+    },
+    {
+        "Date": "4/4/2020",
+        "DailyTest": 3812,
+        "PositiveResults": 1162,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 1370,
+        "InICU": 438,
+        "Intubated": ""
+    },
+    {
+        "Date": "4/5/2020",
+        "DailyTest": 3244,
+        "PositiveResults": 977,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 1632,
+        "InICU": 526,
+        "Intubated": ""
+    },
+    {
+        "Date": "4/6/2020",
+        "DailyTest": 6319,
+        "PositiveResults": 1932,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 1677,
+        "InICU": 542,
+        "Intubated": ""
+    },
+    {
+        "Date": "4/7/2020",
+        "DailyTest": 6261,
+        "PositiveResults": 2020,
+        "WW_Daily_copiesPml": 436,
+        "InHospital": 1831,
+        "InICU": 575,
+        "Intubated": ""
+    },
+    {
+        "Date": "4/8/2020",
+        "DailyTest": 6438,
+        "PositiveResults": 1864,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 2119,
+        "InICU": 659,
+        "Intubated": ""
+    },
+    {
+        "Date": "4/9/2020",
+        "DailyTest": 6074,
+        "PositiveResults": 1978,
+        "WW_Daily_copiesPml": 642.5,
+        "InHospital": 2302,
+        "InICU": 685,
+        "Intubated": ""
+    },
+    {
+        "Date": "4/10/2020",
+        "DailyTest": 7201,
+        "PositiveResults": 2055,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 2435,
+        "InICU": 701,
+        "Intubated": ""
+    },
+    {
+        "Date": "4/11/2020",
+        "DailyTest": 4247,
+        "PositiveResults": 1328,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 2507,
+        "InICU": 745,
+        "Intubated": ""
+    },
+    {
+        "Date": "4/12/2020",
+        "DailyTest": 2822,
+        "PositiveResults": 931,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 2554,
+        "InICU": 765,
+        "Intubated": ""
+    },
+    {
+        "Date": "4/13/2020",
+        "DailyTest": 5817,
+        "PositiveResults": 1986,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 3485,
+        "InICU": 942,
+        "Intubated": 782
+    },
+    {
+        "Date": "4/14/2020",
+        "DailyTest": 9392,
+        "PositiveResults": 2927,
+        "WW_Daily_copiesPml": 545.5,
+        "InHospital": 3616,
+        "InICU": 965,
+        "Intubated": 733
+    },
+    {
+        "Date": "4/15/2020",
+        "DailyTest": 9133,
+        "PositiveResults": 2540,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 3637,
+        "InICU": 987,
+        "Intubated": 769
+    },
+    {
+        "Date": "4/16/2020",
+        "DailyTest": 8369,
+        "PositiveResults": 2387,
+        "WW_Daily_copiesPml": 229.5,
+        "InHospital": 3726,
+        "InICU": 998,
+        "Intubated": 826
+    },
+    {
+        "Date": "4/17/2020",
+        "DailyTest": 10317,
+        "PositiveResults": 2989,
+        "WW_Daily_copiesPml": 262,
+        "InHospital": 3756,
+        "InICU": 1003,
+        "Intubated": 814
+    },
+    {
+        "Date": "4/18/2020",
+        "DailyTest": 5651,
+        "PositiveResults": 1480,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 3728,
+        "InICU": 1000,
+        "Intubated": 821
+    },
+    {
+        "Date": "4/19/2020",
+        "DailyTest": 4283,
+        "PositiveResults": 1089,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 3789,
+        "InICU": 1020,
+        "Intubated": 813
+    },
+    {
+        "Date": "4/20/2020",
+        "DailyTest": 10022,
+        "PositiveResults": 2685,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 3867,
+        "InICU": 1040,
+        "Intubated": 824
+    },
+    {
+        "Date": "4/21/2020",
+        "DailyTest": 8853,
+        "PositiveResults": 2185,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 3965,
+        "InICU": 1050,
+        "Intubated": 842
+    },
+    {
+        "Date": "4/22/2020",
+        "DailyTest": 11596,
+        "PositiveResults": 2703,
+        "WW_Daily_copiesPml": 380.5,
+        "InHospital": 3873,
+        "InICU": 1034,
+        "Intubated": 831
+    },
+    {
+        "Date": "4/23/2020",
+        "DailyTest": 10054,
+        "PositiveResults": 2405,
+        "WW_Daily_copiesPml": 231,
+        "InHospital": 3830,
+        "InICU": 1048,
+        "Intubated": 810
+    },
+    {
+        "Date": "4/24/2020",
+        "DailyTest": 11526,
+        "PositiveResults": 2272,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 3830,
+        "InICU": 1058,
+        "Intubated": 795
+    },
+    {
+        "Date": "4/25/2020",
+        "DailyTest": 7645,
+        "PositiveResults": 1492,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 3854,
+        "InICU": 1077,
+        "Intubated": 816
+    },
+    {
+        "Date": "4/26/2020",
+        "DailyTest": 4588,
+        "PositiveResults": 844,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 3892,
+        "InICU": 1089,
+        "Intubated": 811
+    },
+    {
+        "Date": "4/27/2020",
+        "DailyTest": 10231,
+        "PositiveResults": 2128,
+        "WW_Daily_copiesPml": 130,
+        "InHospital": 3875,
+        "InICU": 1010,
+        "Intubated": 785
+    },
+    {
+        "Date": "4/28/2020",
+        "DailyTest": 11364,
+        "PositiveResults": 2103,
+        "WW_Daily_copiesPml": 195,
+        "InHospital": 3856,
+        "InICU": 1011,
+        "Intubated": 763
+    },
+    {
+        "Date": "4/29/2020",
+        "DailyTest": 11686,
+        "PositiveResults": 2185,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 3803,
+        "InICU": 1001,
+        "Intubated": 746
+    },
+    {
+        "Date": "4/30/2020",
+        "DailyTest": 12676,
+        "PositiveResults": 2047,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 3716,
+        "InICU": 952,
+        "Intubated": 727
+    },
+    {
+        "Date": "5/1/2020",
+        "DailyTest": 13026,
+        "PositiveResults": 2081,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 3601,
+        "InICU": 925,
+        "Intubated": 714
+    },
+    {
+        "Date": "5/2/2020",
+        "DailyTest": 6681,
+        "PositiveResults": 1029,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 3617,
+        "InICU": 907,
+        "Intubated": 684
+    },
+    {
+        "Date": "5/3/2020",
+        "DailyTest": 4741,
+        "PositiveResults": 733,
+        "WW_Daily_copiesPml": 151,
+        "InHospital": 3539,
+        "InICU": 913,
+        "Intubated": 675
+    },
+    {
+        "Date": "5/4/2020",
+        "DailyTest": 11162,
+        "PositiveResults": 1878,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 3542,
+        "InICU": 914,
+        "Intubated": 688
+    },
+    {
+        "Date": "5/5/2020",
+        "DailyTest": 11703,
+        "PositiveResults": 1732,
+        "WW_Daily_copiesPml": 95.5,
+        "InHospital": 3562,
+        "InICU": 922,
+        "Intubated": 685
+    },
+    {
+        "Date": "5/6/2020",
+        "DailyTest": 12253,
+        "PositiveResults": 1697,
+        "WW_Daily_copiesPml": 13.5,
+        "InHospital": 3436,
+        "InICU": 853,
+        "Intubated": 656
+    },
+    {
+        "Date": "5/7/2020",
+        "DailyTest": 12474,
+        "PositiveResults": 1675,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 3349,
+        "InICU": 832,
+        "Intubated": 643
+    },
+    {
+        "Date": "5/8/2020",
+        "DailyTest": 12335,
+        "PositiveResults": 1451,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 3229,
+        "InICU": 814,
+        "Intubated": 619
+    },
+    {
+        "Date": "5/9/2020",
+        "DailyTest": 5467,
+        "PositiveResults": 682,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 3128,
+        "InICU": 810,
+        "Intubated": 616
+    },
+    {
+        "Date": "5/10/2020",
+        "DailyTest": 2951,
+        "PositiveResults": 385,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 3102,
+        "InICU": 813,
+        "Intubated": 630
+    },
+    {
+        "Date": "5/11/2020",
+        "DailyTest": 10859,
+        "PositiveResults": 1303,
+        "WW_Daily_copiesPml": 164,
+        "InHospital": 3127,
+        "InICU": 818,
+        "Intubated": 617
+    },
+    {
+        "Date": "5/12/2020",
+        "DailyTest": 12353,
+        "PositiveResults": 1450,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 3101,
+        "InICU": 794,
+        "Intubated": 623
+    },
+    {
+        "Date": "5/13/2020",
+        "DailyTest": 12573,
+        "PositiveResults": 1311,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 2859,
+        "InICU": 781,
+        "Intubated": 601
+    },
+    {
+        "Date": "5/14/2020",
+        "DailyTest": 12348,
+        "PositiveResults": 1314,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 2767,
+        "InICU": 749,
+        "Intubated": 584
+    },
+    {
+        "Date": "5/15/2020",
+        "DailyTest": 12727,
+        "PositiveResults": 1103,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 2692,
+        "InICU": 747,
+        "Intubated": 576
+    },
+    {
+        "Date": "5/16/2020",
+        "DailyTest": 6598,
+        "PositiveResults": 645,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 2597,
+        "InICU": 702,
+        "Intubated": 558
+    },
+    {
+        "Date": "5/17/2020",
+        "DailyTest": 3877,
+        "PositiveResults": 363,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 2533,
+        "InICU": 674,
+        "Intubated": 533
+    },
+    {
+        "Date": "5/18/2020",
+        "DailyTest": 12482,
+        "PositiveResults": 1310,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 2472,
+        "InICU": 672,
+        "Intubated": 534
+    },
+    {
+        "Date": "5/19/2020",
+        "DailyTest": 11500,
+        "PositiveResults": 1072,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 2518,
+        "InICU": 675,
+        "Intubated": 513
+    },
+    {
+        "Date": "5/20/2020",
+        "DailyTest": 12081,
+        "PositiveResults": 1011,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 2396,
+        "InICU": 647,
+        "Intubated": 493
+    },
+    {
+        "Date": "5/21/2020",
+        "DailyTest": 10890,
+        "PositiveResults": 963,
+        "WW_Daily_copiesPml": 62,
+        "InHospital": 2323,
+        "InICU": 628,
+        "Intubated": 454
+    },
+    {
+        "Date": "5/22/2020",
+        "DailyTest": 10402,
+        "PositiveResults": 862,
+        "WW_Daily_copiesPml": 335,
+        "InHospital": 2237,
+        "InICU": 610,
+        "Intubated": 452
+    },
+    {
+        "Date": "5/23/2020",
+        "DailyTest": 4666,
+        "PositiveResults": 386,
+        "WW_Daily_copiesPml": 73,
+        "InHospital": 2169,
+        "InICU": 558,
+        "Intubated": 433
+    },
+    {
+        "Date": "5/24/2020",
+        "DailyTest": 3905,
+        "PositiveResults": 301,
+        "WW_Daily_copiesPml": 65.5,
+        "InHospital": 2132,
+        "InICU": 556,
+        "Intubated": 413
+    },
+    {
+        "Date": "5/25/2020",
+        "DailyTest": 2942,
+        "PositiveResults": 198,
+        "WW_Daily_copiesPml": 54,
+        "InHospital": 2108,
+        "InICU": 560,
+        "Intubated": 424
+    },
+    {
+        "Date": "5/26/2020",
+        "DailyTest": 10534,
+        "PositiveResults": 864,
+        "WW_Daily_copiesPml": 67.5,
+        "InHospital": 2106,
+        "InICU": 556,
+        "Intubated": 404
+    },
+    {
+        "Date": "5/27/2020",
+        "DailyTest": 9544,
+        "PositiveResults": 686,
+        "WW_Daily_copiesPml": 139,
+        "InHospital": 2112,
+        "InICU": 533,
+        "Intubated": 377
+    },
+    {
+        "Date": "5/28/2020",
+        "DailyTest": 8756,
+        "PositiveResults": 639,
+        "WW_Daily_copiesPml": 42.5,
+        "InHospital": 1991,
+        "InICU": 485,
+        "Intubated": 339
+    },
+    {
+        "Date": "5/29/2020",
+        "DailyTest": 9498,
+        "PositiveResults": 530,
+        "WW_Daily_copiesPml": 38.5,
+        "InHospital": 1904,
+        "InICU": 453,
+        "Intubated": 315
+    },
+    {
+        "Date": "5/30/2020",
+        "DailyTest": 5384,
+        "PositiveResults": 270,
+        "WW_Daily_copiesPml": 66,
+        "InHospital": 1824,
+        "InICU": 436,
+        "Intubated": 300
+    },
+    {
+        "Date": "5/31/2020",
+        "DailyTest": 3515,
+        "PositiveResults": 161,
+        "WW_Daily_copiesPml": 58,
+        "InHospital": 1747,
+        "InICU": 404,
+        "Intubated": 289
+    },
+    {
+        "Date": "6/1/2020",
+        "DailyTest": 8930,
+        "PositiveResults": 508,
+        "WW_Daily_copiesPml": 71,
+        "InHospital": 1657,
+        "InICU": 394,
+        "Intubated": 269
+    },
+    {
+        "Date": "6/2/2020",
+        "DailyTest": 8860,
+        "PositiveResults": 447,
+        "WW_Daily_copiesPml": 144.5,
+        "InHospital": 1684,
+        "InICU": 393,
+        "Intubated": 263
+    },
+    {
+        "Date": "6/3/2020",
+        "DailyTest": 9046,
+        "PositiveResults": 459,
+        "WW_Daily_copiesPml": 37.5,
+        "InHospital": 1637,
+        "InICU": 401,
+        "Intubated": 249
+    },
+    {
+        "Date": "6/4/2020",
+        "DailyTest": 8178,
+        "PositiveResults": 378,
+        "WW_Daily_copiesPml": 39.5,
+        "InHospital": 1533,
+        "InICU": 350,
+        "Intubated": 238
+    },
+    {
+        "Date": "6/5/2020",
+        "DailyTest": 8152,
+        "PositiveResults": 337,
+        "WW_Daily_copiesPml": 44.5,
+        "InHospital": 1531,
+        "InICU": 359,
+        "Intubated": 238
+    },
+    {
+        "Date": "6/6/2020",
+        "DailyTest": 4368,
+        "PositiveResults": 148,
+        "WW_Daily_copiesPml": 32.5,
+        "InHospital": 1444,
+        "InICU": 335,
+        "Intubated": 221
+    },
+    {
+        "Date": "6/7/2020",
+        "DailyTest": 3399,
+        "PositiveResults": 151,
+        "WW_Daily_copiesPml": 25.5,
+        "InHospital": 1415,
+        "InICU": 322,
+        "Intubated": 209
+    },
+    {
+        "Date": "6/8/2020",
+        "DailyTest": 10239,
+        "PositiveResults": 350,
+        "WW_Daily_copiesPml": 22.5,
+        "InHospital": 1397,
+        "InICU": 315,
+        "Intubated": 202
+    },
+    {
+        "Date": "6/9/2020",
+        "DailyTest": 10554,
+        "PositiveResults": 341,
+        "WW_Daily_copiesPml": 109.5,
+        "InHospital": 1335,
+        "InICU": 319,
+        "Intubated": 200
+    },
+    {
+        "Date": "6/10/2020",
+        "DailyTest": 9807,
+        "PositiveResults": 259,
+        "WW_Daily_copiesPml": 71.5,
+        "InHospital": 1260,
+        "InICU": 296,
+        "Intubated": 181
+    },
+    {
+        "Date": "6/11/2020",
+        "DailyTest": 9823,
+        "PositiveResults": 226,
+        "WW_Daily_copiesPml": 87,
+        "InHospital": 1143,
+        "InICU": 276,
+        "Intubated": 170
+    },
+    {
+        "Date": "6/12/2020",
+        "DailyTest": 9781,
+        "PositiveResults": 254,
+        "WW_Daily_copiesPml": 61.5,
+        "InHospital": 1069,
+        "InICU": 249,
+        "Intubated": 162
+    },
+    {
+        "Date": "6/13/2020",
+        "DailyTest": 4664,
+        "PositiveResults": 96,
+        "WW_Daily_copiesPml": 128.5,
+        "InHospital": 1039,
+        "InICU": 244,
+        "Intubated": 156
+    },
+    {
+        "Date": "6/14/2020",
+        "DailyTest": 3606,
+        "PositiveResults": 76,
+        "WW_Daily_copiesPml": 36,
+        "InHospital": 1026,
+        "InICU": 253,
+        "Intubated": 167
+    },
+    {
+        "Date": "6/15/2020",
+        "DailyTest": 10300,
+        "PositiveResults": 235,
+        "WW_Daily_copiesPml": 89.5,
+        "InHospital": 1045,
+        "InICU": 244,
+        "Intubated": 151
+    },
+    {
+        "Date": "6/16/2020",
+        "DailyTest": 10054,
+        "PositiveResults": 198,
+        "WW_Daily_copiesPml": 89,
+        "InHospital": 998,
+        "InICU": 227,
+        "Intubated": 135
+    },
+    {
+        "Date": "6/17/2020",
+        "DailyTest": 14158,
+        "PositiveResults": 248,
+        "WW_Daily_copiesPml": 16,
+        "InHospital": 968,
+        "InICU": 227,
+        "Intubated": 125
+    },
+    {
+        "Date": "6/18/2020",
+        "DailyTest": 14282,
+        "PositiveResults": 240,
+        "WW_Daily_copiesPml": 18.5,
+        "InHospital": 994,
+        "InICU": 199,
+        "Intubated": 124
+    },
+    {
+        "Date": "6/19/2020",
+        "DailyTest": 8795,
+        "PositiveResults": 175,
+        "WW_Daily_copiesPml": 24,
+        "InHospital": 964,
+        "InICU": 200,
+        "Intubated": 118
+    },
+    {
+        "Date": "6/20/2020",
+        "DailyTest": 5226,
+        "PositiveResults": 93,
+        "WW_Daily_copiesPml": 18.5,
+        "InHospital": 927,
+        "InICU": 194,
+        "Intubated": 111
+    },
+    {
+        "Date": "6/21/2020",
+        "DailyTest": 3794,
+        "PositiveResults": 79,
+        "WW_Daily_copiesPml": 24,
+        "InHospital": 920,
+        "InICU": 180,
+        "Intubated": 107
+    },
+    {
+        "Date": "6/22/2020",
+        "DailyTest": 9718,
+        "PositiveResults": 224,
+        "WW_Daily_copiesPml": 24,
+        "InHospital": 953,
+        "InICU": 181,
+        "Intubated": 112
+    },
+    {
+        "Date": "6/23/2020",
+        "DailyTest": 10198,
+        "PositiveResults": 189,
+        "WW_Daily_copiesPml": 19,
+        "InHospital": 939,
+        "InICU": 181,
+        "Intubated": 98
+    },
+    {
+        "Date": "6/24/2020",
+        "DailyTest": 10132,
+        "PositiveResults": 210,
+        "WW_Daily_copiesPml": 7.5,
+        "InHospital": 822,
+        "InICU": 174,
+        "Intubated": 101
+    },
+    {
+        "Date": "6/25/2020",
+        "DailyTest": 9193,
+        "PositiveResults": 206,
+        "WW_Daily_copiesPml": 12.5,
+        "InHospital": 791,
+        "InICU": 156,
+        "Intubated": 99
+    },
+    {
+        "Date": "6/26/2020",
+        "DailyTest": 9946,
+        "PositiveResults": 198,
+        "WW_Daily_copiesPml": 10,
+        "InHospital": 769,
+        "InICU": 143,
+        "Intubated": 90
+    },
+    {
+        "Date": "6/27/2020",
+        "DailyTest": 5797,
+        "PositiveResults": 134,
+        "WW_Daily_copiesPml": 17.5,
+        "InHospital": 748,
+        "InICU": 134,
+        "Intubated": 81
+    },
+    {
+        "Date": "6/28/2020",
+        "DailyTest": 4568,
+        "PositiveResults": 71,
+        "WW_Daily_copiesPml": 13.5,
+        "InHospital": 762,
+        "InICU": 138,
+        "Intubated": 79
+    },
+    {
+        "Date": "6/29/2020",
+        "DailyTest": 11721,
+        "PositiveResults": 205,
+        "WW_Daily_copiesPml": 17.5,
+        "InHospital": 733,
+        "InICU": 120,
+        "Intubated": 63
+    },
+    {
+        "Date": "6/30/2020",
+        "DailyTest": 11916,
+        "PositiveResults": 220,
+        "WW_Daily_copiesPml": 17,
+        "InHospital": 760,
+        "InICU": 123,
+        "Intubated": 65
+    },
+    {
+        "Date": "7/1/2020",
+        "DailyTest": 10569,
+        "PositiveResults": 216,
+        "WW_Daily_copiesPml": 21,
+        "InHospital": 681,
+        "InICU": 113,
+        "Intubated": 52
+    },
+    {
+        "Date": "7/2/2020",
+        "DailyTest": 9979,
+        "PositiveResults": 226,
+        "WW_Daily_copiesPml": 40.5,
+        "InHospital": 656,
+        "InICU": 106,
+        "Intubated": 55
+    },
+    {
+        "Date": "7/3/2020",
+        "DailyTest": 6004,
+        "PositiveResults": 99,
+        "WW_Daily_copiesPml": 31.5,
+        "InHospital": 640,
+        "InICU": 107,
+        "Intubated": 51
+    },
+    {
+        "Date": "7/4/2020",
+        "DailyTest": 2981,
+        "PositiveResults": 60,
+        "WW_Daily_copiesPml": 25,
+        "InHospital": 636,
+        "InICU": 100,
+        "Intubated": 46
+    },
+    {
+        "Date": "7/5/2020",
+        "DailyTest": 4769,
+        "PositiveResults": 101,
+        "WW_Daily_copiesPml": 12,
+        "InHospital": 603,
+        "InICU": 99,
+        "Intubated": 51
+    },
+    {
+        "Date": "7/6/2020",
+        "DailyTest": 12187,
+        "PositiveResults": 237,
+        "WW_Daily_copiesPml": 25.5,
+        "InHospital": 621,
+        "InICU": 104,
+        "Intubated": 50
+    },
+    {
+        "Date": "7/7/2020",
+        "DailyTest": 14461,
+        "PositiveResults": 241,
+        "WW_Daily_copiesPml": 30.5,
+        "InHospital": 662,
+        "InICU": 102,
+        "Intubated": 49
+    },
+    {
+        "Date": "7/8/2020",
+        "DailyTest": 13821,
+        "PositiveResults": 216,
+        "WW_Daily_copiesPml": 22,
+        "InHospital": 635,
+        "InICU": 103,
+        "Intubated": 42
+    },
+    {
+        "Date": "7/9/2020",
+        "DailyTest": 12398,
+        "PositiveResults": 254,
+        "WW_Daily_copiesPml": 24,
+        "InHospital": 632,
+        "InICU": 98,
+        "Intubated": 47
+    },
+    {
+        "Date": "7/10/2020",
+        "DailyTest": 12900,
+        "PositiveResults": 228,
+        "WW_Daily_copiesPml": 22.5,
+        "InHospital": 572,
+        "InICU": 87,
+        "Intubated": 44
+    },
+    {
+        "Date": "7/11/2020",
+        "DailyTest": 7389,
+        "PositiveResults": 117,
+        "WW_Daily_copiesPml": 22.5,
+        "InHospital": 583,
+        "InICU": 93,
+        "Intubated": 43
+    },
+    {
+        "Date": "7/12/2020",
+        "DailyTest": 5058,
+        "PositiveResults": 87,
+        "WW_Daily_copiesPml": 36.5,
+        "InHospital": 570,
+        "InICU": 89,
+        "Intubated": 46
+    },
+    {
+        "Date": "7/13/2020",
+        "DailyTest": 14454,
+        "PositiveResults": 266,
+        "WW_Daily_copiesPml": 28.5,
+        "InHospital": 560,
+        "InICU": 93,
+        "Intubated": 37
+    },
+    {
+        "Date": "7/14/2020",
+        "DailyTest": 14957,
+        "PositiveResults": 232,
+        "WW_Daily_copiesPml": 24.5,
+        "InHospital": 580,
+        "InICU": 80,
+        "Intubated": 40
+    },
+    {
+        "Date": "7/15/2020",
+        "DailyTest": 15117,
+        "PositiveResults": 298,
+        "WW_Daily_copiesPml": 32.5,
+        "InHospital": 557,
+        "InICU": 77,
+        "Intubated": 38
+    },
+    {
+        "Date": "7/16/2020",
+        "DailyTest": 13032,
+        "PositiveResults": 245,
+        "WW_Daily_copiesPml": 24,
+        "InHospital": 515,
+        "InICU": 76,
+        "Intubated": 34
+    },
+    {
+        "Date": "7/17/2020",
+        "DailyTest": 12893,
+        "PositiveResults": 227,
+        "WW_Daily_copiesPml": 32.5,
+        "InHospital": 499,
+        "InICU": 86,
+        "Intubated": 43
+    },
+    {
+        "Date": "7/18/2020",
+        "DailyTest": 7962,
+        "PositiveResults": 128,
+        "WW_Daily_copiesPml": 34,
+        "InHospital": 498,
+        "InICU": 64,
+        "Intubated": 41
+    },
+    {
+        "Date": "7/19/2020",
+        "DailyTest": 5525,
+        "PositiveResults": 74,
+        "WW_Daily_copiesPml": 18.5,
+        "InHospital": 483,
+        "InICU": 67,
+        "Intubated": 38
+    },
+    {
+        "Date": "7/20/2020",
+        "DailyTest": 12874,
+        "PositiveResults": 279,
+        "WW_Daily_copiesPml": 25.5,
+        "InHospital": 513,
+        "InICU": 63,
+        "Intubated": 33
+    },
+    {
+        "Date": "7/21/2020",
+        "DailyTest": 13618,
+        "PositiveResults": 255,
+        "WW_Daily_copiesPml": 14.5,
+        "InHospital": 532,
+        "InICU": 63,
+        "Intubated": 37
+    },
+    {
+        "Date": "7/22/2020",
+        "DailyTest": 12753,
+        "PositiveResults": 258,
+        "WW_Daily_copiesPml": 31.5,
+        "InHospital": 351,
+        "InICU": 59,
+        "Intubated": 30
+    },
+    {
+        "Date": "7/23/2020",
+        "DailyTest": 13509,
+        "PositiveResults": 258,
+        "WW_Daily_copiesPml": 19,
+        "InHospital": 155,
+        "InICU": 20,
+        "Intubated": 16
+    },
+    {
+        "Date": "7/24/2020",
+        "DailyTest": 12404,
+        "PositiveResults": 257,
+        "WW_Daily_copiesPml": 41.5,
+        "InHospital": 148,
+        "InICU": 22,
+        "Intubated": 17
+    },
+    {
+        "Date": "7/25/2020",
+        "DailyTest": 8033,
+        "PositiveResults": 159,
+        "WW_Daily_copiesPml": 32.5,
+        "InHospital": 161,
+        "InICU": 32,
+        "Intubated": 19
+    },
+    {
+        "Date": "7/26/2020",
+        "DailyTest": 5108,
+        "PositiveResults": 100,
+        "WW_Daily_copiesPml": 23.5,
+        "InHospital": 160,
+        "InICU": 30,
+        "Intubated": 16
+    },
+    {
+        "Date": "7/27/2020",
+        "DailyTest": 15177,
+        "PositiveResults": 361,
+        "WW_Daily_copiesPml": 29.5,
+        "InHospital": 162,
+        "InICU": 31,
+        "Intubated": 19
+    },
+    {
+        "Date": "7/28/2020",
+        "DailyTest": 17330,
+        "PositiveResults": 320,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 164,
+        "InICU": 31,
+        "Intubated": 14
+    },
+    {
+        "Date": "7/29/2020",
+        "DailyTest": 15397,
+        "PositiveResults": 319,
+        "WW_Daily_copiesPml": 27,
+        "InHospital": 170,
+        "InICU": 35,
+        "Intubated": 21
+    },
+    {
+        "Date": "7/30/2020",
+        "DailyTest": 15547,
+        "PositiveResults": 336,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 175,
+        "InICU": 37,
+        "Intubated": 21
+    },
+    {
+        "Date": "7/31/2020",
+        "DailyTest": 14447,
+        "PositiveResults": 319,
+        "WW_Daily_copiesPml": 55,
+        "InHospital": 171,
+        "InICU": 34,
+        "Intubated": 21
+    },
+    {
+        "Date": "8/1/2020",
+        "DailyTest": 7716,
+        "PositiveResults": 148,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 174,
+        "InICU": 33,
+        "Intubated": 22
+    },
+    {
+        "Date": "8/2/2020",
+        "DailyTest": 5636,
+        "PositiveResults": 107,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 171,
+        "InICU": 31,
+        "Intubated": 20
+    },
+    {
+        "Date": "8/3/2020",
+        "DailyTest": 18206,
+        "PositiveResults": 358,
+        "WW_Daily_copiesPml": 109,
+        "InHospital": 167,
+        "InICU": 28,
+        "Intubated": 19
+    },
+    {
+        "Date": "8/4/2020",
+        "DailyTest": 16251,
+        "PositiveResults": 307,
+        "WW_Daily_copiesPml": 60.5,
+        "InHospital": 181,
+        "InICU": 32,
+        "Intubated": 16
+    },
+    {
+        "Date": "8/5/2020",
+        "DailyTest": 17098,
+        "PositiveResults": 333,
+        "WW_Daily_copiesPml": 72,
+        "InHospital": 198,
+        "InICU": 35,
+        "Intubated": 22
+    },
+    {
+        "Date": "8/6/2020",
+        "DailyTest": 15738,
+        "PositiveResults": 354,
+        "WW_Daily_copiesPml": 37.5,
+        "InHospital": 191,
+        "InICU": 30,
+        "Intubated": 19
+    },
+    {
+        "Date": "8/7/2020",
+        "DailyTest": 15734,
+        "PositiveResults": 299,
+        "WW_Daily_copiesPml": 29.5,
+        "InHospital": 202,
+        "InICU": 40,
+        "Intubated": 18
+    },
+    {
+        "Date": "8/8/2020",
+        "DailyTest": 9243,
+        "PositiveResults": 169,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 195,
+        "InICU": 39,
+        "Intubated": 19
+    },
+    {
+        "Date": "8/9/2020",
+        "DailyTest": 6203,
+        "PositiveResults": 85,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 190,
+        "InICU": 35,
+        "Intubated": 19
+    },
+    {
+        "Date": "8/10/2020",
+        "DailyTest": 19796,
+        "PositiveResults": 372,
+        "WW_Daily_copiesPml": 52,
+        "InHospital": 178,
+        "InICU": 34,
+        "Intubated": 21
+    },
+    {
+        "Date": "8/11/2020",
+        "DailyTest": 18150,
+        "PositiveResults": 284,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 190,
+        "InICU": 37,
+        "Intubated": 23
+    },
+    {
+        "Date": "8/12/2020",
+        "DailyTest": 18581,
+        "PositiveResults": 304,
+        "WW_Daily_copiesPml": 42,
+        "InHospital": 183,
+        "InICU": 38,
+        "Intubated": 22
+    },
+    {
+        "Date": "8/13/2020",
+        "DailyTest": 17993,
+        "PositiveResults": 349,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 189,
+        "InICU": 39,
+        "Intubated": 20
+    },
+    {
+        "Date": "8/14/2020",
+        "DailyTest": 18339,
+        "PositiveResults": 343,
+        "WW_Daily_copiesPml": 31.5,
+        "InHospital": 180,
+        "InICU": 39,
+        "Intubated": 22
+    },
+    {
+        "Date": "8/15/2020",
+        "DailyTest": 9976,
+        "PositiveResults": 151,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 181,
+        "InICU": 41,
+        "Intubated": 21
+    },
+    {
+        "Date": "8/16/2020",
+        "DailyTest": 7823,
+        "PositiveResults": 120,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 180,
+        "InICU": 37,
+        "Intubated": 14
+    },
+    {
+        "Date": "8/17/2020",
+        "DailyTest": 25826,
+        "PositiveResults": 369,
+        "WW_Daily_copiesPml": 34,
+        "InHospital": 182,
+        "InICU": 39,
+        "Intubated": 15
+    },
+    {
+        "Date": "8/18/2020",
+        "DailyTest": 24082,
+        "PositiveResults": 380,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 174,
+        "InICU": 36,
+        "Intubated": 15
+    },
+    {
+        "Date": "8/19/2020",
+        "DailyTest": 23238,
+        "PositiveResults": 336,
+        "WW_Daily_copiesPml": 68.5,
+        "InHospital": 180,
+        "InICU": 35,
+        "Intubated": 13
+    },
+    {
+        "Date": "8/20/2020",
+        "DailyTest": 22173,
+        "PositiveResults": 357,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 162,
+        "InICU": 38,
+        "Intubated": 11
+    },
+    {
+        "Date": "8/21/2020",
+        "DailyTest": 19780,
+        "PositiveResults": 283,
+        "WW_Daily_copiesPml": 47.5,
+        "InHospital": 151,
+        "InICU": 33,
+        "Intubated": 13
+    },
+    {
+        "Date": "8/22/2020",
+        "DailyTest": 12412,
+        "PositiveResults": 148,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 142,
+        "InICU": 33,
+        "Intubated": 16
+    },
+    {
+        "Date": "8/23/2020",
+        "DailyTest": 9689,
+        "PositiveResults": 92,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 140,
+        "InICU": 35,
+        "Intubated": 14
+    },
+    {
+        "Date": "8/24/2020",
+        "DailyTest": 25228,
+        "PositiveResults": 395,
+        "WW_Daily_copiesPml": 29.5,
+        "InHospital": 162,
+        "InICU": 40,
+        "Intubated": 18
+    },
+    {
+        "Date": "8/25/2020",
+        "DailyTest": 23845,
+        "PositiveResults": 379,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 160,
+        "InICU": 42,
+        "Intubated": 21
+    },
+    {
+        "Date": "8/26/2020",
+        "DailyTest": 23951,
+        "PositiveResults": 380,
+        "WW_Daily_copiesPml": 39.5,
+        "InHospital": 170,
+        "InICU": 41,
+        "Intubated": 23
+    },
+    {
+        "Date": "8/27/2020",
+        "DailyTest": 19478,
+        "PositiveResults": 344,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 166,
+        "InICU": 43,
+        "Intubated": 20
+    },
+    {
+        "Date": "8/28/2020",
+        "DailyTest": 22481,
+        "PositiveResults": 363,
+        "WW_Daily_copiesPml": 49,
+        "InHospital": 161,
+        "InICU": 41,
+        "Intubated": 21
+    },
+    {
+        "Date": "8/29/2020",
+        "DailyTest": 16193,
+        "PositiveResults": 172,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 160,
+        "InICU": 40,
+        "Intubated": 19
+    },
+    {
+        "Date": "8/30/2020",
+        "DailyTest": 12190,
+        "PositiveResults": 139,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 157,
+        "InICU": 38,
+        "Intubated": 19
+    },
+    {
+        "Date": "8/31/2020",
+        "DailyTest": 24677,
+        "PositiveResults": 439,
+        "WW_Daily_copiesPml": 54,
+        "InHospital": 162,
+        "InICU": 35,
+        "Intubated": 20
+    },
+    {
+        "Date": "9/1/2020",
+        "DailyTest": 23406,
+        "PositiveResults": 396,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 169,
+        "InICU": 35,
+        "Intubated": 19
+    },
+    {
+        "Date": "9/2/2020",
+        "DailyTest": 20116,
+        "PositiveResults": 384,
+        "WW_Daily_copiesPml": 99,
+        "InHospital": 167,
+        "InICU": 35,
+        "Intubated": 21
+    },
+    {
+        "Date": "9/3/2020",
+        "DailyTest": 20290,
+        "PositiveResults": 464,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 173,
+        "InICU": 36,
+        "Intubated": 20
+    },
+    {
+        "Date": "9/4/2020",
+        "DailyTest": 17189,
+        "PositiveResults": 346,
+        "WW_Daily_copiesPml": 95,
+        "InHospital": 164,
+        "InICU": 32,
+        "Intubated": 20
+    },
+    {
+        "Date": "9/5/2020",
+        "DailyTest": 9153,
+        "PositiveResults": 198,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 163,
+        "InICU": 33,
+        "Intubated": 16
+    },
+    {
+        "Date": "9/6/2020",
+        "DailyTest": 6895,
+        "PositiveResults": 113,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 169,
+        "InICU": 31,
+        "Intubated": 16
+    },
+    {
+        "Date": "9/7/2020",
+        "DailyTest": 7972,
+        "PositiveResults": 161,
+        "WW_Daily_copiesPml": 62,
+        "InHospital": 178,
+        "InICU": 27,
+        "Intubated": 16
+    },
+    {
+        "Date": "9/8/2020",
+        "DailyTest": 21190,
+        "PositiveResults": 546,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 179,
+        "InICU": 31,
+        "Intubated": 17
+    },
+    {
+        "Date": "9/9/2020",
+        "DailyTest": 18888,
+        "PositiveResults": 475,
+        "WW_Daily_copiesPml": 58.5,
+        "InHospital": 174,
+        "InICU": 33,
+        "Intubated": 17
+    },
+    {
+        "Date": "9/10/2020",
+        "DailyTest": 15948,
+        "PositiveResults": 412,
+        "WW_Daily_copiesPml": 48.5,
+        "InHospital": 173,
+        "InICU": 38,
+        "Intubated": 14
+    },
+    {
+        "Date": "9/11/2020",
+        "DailyTest": 15745,
+        "PositiveResults": 409,
+        "WW_Daily_copiesPml": 49,
+        "InHospital": 170,
+        "InICU": 39,
+        "Intubated": 16
+    },
+    {
+        "Date": "9/12/2020",
+        "DailyTest": 9929,
+        "PositiveResults": 189,
+        "WW_Daily_copiesPml": 35,
+        "InHospital": 156,
+        "InICU": 35,
+        "Intubated": 13
+    },
+    {
+        "Date": "9/13/2020",
+        "DailyTest": 8686,
+        "PositiveResults": 161,
+        "WW_Daily_copiesPml": 34.5,
+        "InHospital": 157,
+        "InICU": 35,
+        "Intubated": 13
+    },
+    {
+        "Date": "9/14/2020",
+        "DailyTest": 19923,
+        "PositiveResults": 503,
+        "WW_Daily_copiesPml": 38,
+        "InHospital": 165,
+        "InICU": 35,
+        "Intubated": 14
+    },
+    {
+        "Date": "9/15/2020",
+        "DailyTest": 18573,
+        "PositiveResults": 424,
+        "WW_Daily_copiesPml": 57.5,
+        "InHospital": 179,
+        "InICU": 40,
+        "Intubated": 16
+    },
+    {
+        "Date": "9/16/2020",
+        "DailyTest": 16704,
+        "PositiveResults": 413,
+        "WW_Daily_copiesPml": 58,
+        "InHospital": 185,
+        "InICU": 39,
+        "Intubated": 15
+    },
+    {
+        "Date": "9/17/2020",
+        "DailyTest": 14875,
+        "PositiveResults": 354,
+        "WW_Daily_copiesPml": 45,
+        "InHospital": 178,
+        "InICU": 34,
+        "Intubated": 13
+    },
+    {
+        "Date": "9/18/2020",
+        "DailyTest": 14843,
+        "PositiveResults": 436,
+        "WW_Daily_copiesPml": 60,
+        "InHospital": 183,
+        "InICU": 38,
+        "Intubated": 15
+    },
+    {
+        "Date": "9/19/2020",
+        "DailyTest": 8025,
+        "PositiveResults": 202,
+        "WW_Daily_copiesPml": 42,
+        "InHospital": 188,
+        "InICU": 40,
+        "Intubated": 21
+    },
+    {
+        "Date": "9/20/2020",
+        "DailyTest": 6178,
+        "PositiveResults": 141,
+        "WW_Daily_copiesPml": 58.5,
+        "InHospital": 193,
+        "InICU": 50,
+        "Intubated": 23
+    },
+    {
+        "Date": "9/21/2020",
+        "DailyTest": 17744,
+        "PositiveResults": 427,
+        "WW_Daily_copiesPml": 42.5,
+        "InHospital": 200,
+        "InICU": 40,
+        "Intubated": 22
+    },
+    {
+        "Date": "9/22/2020",
+        "DailyTest": 17659,
+        "PositiveResults": 508,
+        "WW_Daily_copiesPml": 42.5,
+        "InHospital": 195,
+        "InICU": 45,
+        "Intubated": 22
+    },
+    {
+        "Date": "9/23/2020",
+        "DailyTest": 16145,
+        "PositiveResults": 560,
+        "WW_Daily_copiesPml": 43.5,
+        "InHospital": 204,
+        "InICU": 45,
+        "Intubated": 19
+    },
+    {
+        "Date": "9/24/2020",
+        "DailyTest": 16293,
+        "PositiveResults": 597,
+        "WW_Daily_copiesPml": 38.5,
+        "InHospital": 211,
+        "InICU": 52,
+        "Intubated": 21
+    },
+    {
+        "Date": "9/25/2020",
+        "DailyTest": 15622,
+        "PositiveResults": 553,
+        "WW_Daily_copiesPml": 47,
+        "InHospital": 211,
+        "InICU": 49,
+        "Intubated": 20
+    },
+    {
+        "Date": "9/26/2020",
+        "DailyTest": 10744,
+        "PositiveResults": 363,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 222,
+        "InICU": 49,
+        "Intubated": 19
+    },
+    {
+        "Date": "9/27/2020",
+        "DailyTest": 8387,
+        "PositiveResults": 225,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 236,
+        "InICU": 57,
+        "Intubated": 21
+    },
+    {
+        "Date": "9/28/2020",
+        "DailyTest": 20315,
+        "PositiveResults": 867,
+        "WW_Daily_copiesPml": 44.5,
+        "InHospital": 254,
+        "InICU": 65,
+        "Intubated": 20
+    },
+    {
+        "Date": "9/29/2020",
+        "DailyTest": 18943,
+        "PositiveResults": 720,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 266,
+        "InICU": 63,
+        "Intubated": 23
+    },
+    {
+        "Date": "9/30/2020",
+        "DailyTest": 16561,
+        "PositiveResults": 613,
+        "WW_Daily_copiesPml": 39.5,
+        "InHospital": 259,
+        "InICU": 61,
+        "Intubated": 22
+    },
+    {
+        "Date": "10/1/2020",
+        "DailyTest": 15509,
+        "PositiveResults": 684,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 250,
+        "InICU": 53,
+        "Intubated": 21
+    },
+    {
+        "Date": "10/2/2020",
+        "DailyTest": 16143,
+        "PositiveResults": 565,
+        "WW_Daily_copiesPml": 51,
+        "InHospital": 258,
+        "InICU": 56,
+        "Intubated": 21
+    },
+    {
+        "Date": "10/3/2020",
+        "DailyTest": 10979,
+        "PositiveResults": 408,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 264,
+        "InICU": 55,
+        "Intubated": 22
+    },
+    {
+        "Date": "10/4/2020",
+        "DailyTest": 7334,
+        "PositiveResults": 292,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 263,
+        "InICU": 50,
+        "Intubated": 22
+    },
+    {
+        "Date": "10/5/2020",
+        "DailyTest": 20846,
+        "PositiveResults": 750,
+        "WW_Daily_copiesPml": 50.5,
+        "InHospital": 288,
+        "InICU": 49,
+        "Intubated": 21
+    },
+    {
+        "Date": "10/6/2020",
+        "DailyTest": 21035,
+        "PositiveResults": 736,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 299,
+        "InICU": 55,
+        "Intubated": 23
+    },
+    {
+        "Date": "10/7/2020",
+        "DailyTest": 20192,
+        "PositiveResults": 722,
+        "WW_Daily_copiesPml": 64.5,
+        "InHospital": 311,
+        "InICU": 60,
+        "Intubated": 19
+    },
+    {
+        "Date": "10/8/2020",
+        "DailyTest": 18365,
+        "PositiveResults": 835,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 309,
+        "InICU": 63,
+        "Intubated": 21
+    },
+    {
+        "Date": "10/9/2020",
+        "DailyTest": 15225,
+        "PositiveResults": 688,
+        "WW_Daily_copiesPml": 61,
+        "InHospital": 330,
+        "InICU": 64,
+        "Intubated": 24
+    },
+    {
+        "Date": "10/10/2020",
+        "DailyTest": 9980,
+        "PositiveResults": 412,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 324,
+        "InICU": 65,
+        "Intubated": 23
+    },
+    {
+        "Date": "10/11/2020",
+        "DailyTest": 6954,
+        "PositiveResults": 264,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 322,
+        "InICU": 58,
+        "Intubated": 24
+    },
+    {
+        "Date": "10/12/2020",
+        "DailyTest": 13286,
+        "PositiveResults": 594,
+        "WW_Daily_copiesPml": 57.5,
+        "InHospital": 321,
+        "InICU": 58,
+        "Intubated": 22
+    },
+    {
+        "Date": "10/13/2020",
+        "DailyTest": 17535,
+        "PositiveResults": 785,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 325,
+        "InICU": 60,
+        "Intubated": 21
+    },
+    {
+        "Date": "10/14/2020",
+        "DailyTest": 19510,
+        "PositiveResults": 897,
+        "WW_Daily_copiesPml": 87,
+        "InHospital": 320,
+        "InICU": 59,
+        "Intubated": 24
+    },
+    {
+        "Date": "10/15/2020",
+        "DailyTest": 17829,
+        "PositiveResults": 950,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 316,
+        "InICU": 53,
+        "Intubated": 25
+    },
+    {
+        "Date": "10/16/2020",
+        "DailyTest": 16336,
+        "PositiveResults": 866,
+        "WW_Daily_copiesPml": 103,
+        "InHospital": 308,
+        "InICU": 61,
+        "Intubated": 27
+    },
+    {
+        "Date": "10/17/2020",
+        "DailyTest": 9944,
+        "PositiveResults": 543,
+        "WW_Daily_copiesPml": "",
+        "InHospital": 311,
+        "InICU": 60,
+        "Intubated": 26
+    },
+    {
+        "Date": "10/18/2020",
+        "DailyTest": 7036,
+        "PositiveResults": 331,
+        "WW_Daily_copiesPml": 192,
+        "InHospital": 334,
+        "InICU": 61,
+        "Intubated": 28
+    },
+    {
+        "Date": "10/19/2020",
+        "DailyTest": 19528,
+        "PositiveResults": 1079,
+        "WW_Daily_copiesPml": 187.5,
+        "InHospital": 342,
+        "InICU": 67,
+        "Intubated": 32
+    },
+    {
+        "Date": "10/20/2020",
+        "DailyTest": 19481,
+        "PositiveResults": 1118,
+        "WW_Daily_copiesPml": 152.5,
+        "InHospital": 358,
+        "InICU": 66,
+        "Intubated": 31
+    },
+    {
+        "Date": "10/21/2020",
+        "DailyTest": 18816,
+        "PositiveResults": 1201,
+        "WW_Daily_copiesPml": 183,
+        "InHospital": 354,
+        "InICU": 75,
+        "Intubated": 34
+    },
+    {
+        "Date": "10/22/2020",
+        "DailyTest": 18944,
+        "PositiveResults": 1375,
+        "WW_Daily_copiesPml": 172.5,
+        "InHospital": 368,
+        "InICU": 79,
+        "Intubated": 31
+    },
+    {
+        "Date": "10/23/2020",
+        "DailyTest": 17559,
+        "PositiveResults": 1223,
+        "WW_Daily_copiesPml": 111.5,
+        "InHospital": 364,
+        "InICU": 82,
+        "Intubated": 37
+    },
+    {
+        "Date": "10/24/2020",
+        "DailyTest": 11630,
+        "PositiveResults": 789,
+        "WW_Daily_copiesPml": 125,
+        "InHospital": 362,
+        "InICU": 82,
+        "Intubated": 38
+    },
+    {
+        "Date": "10/25/2020",
+        "DailyTest": 7478,
+        "PositiveResults": 483,
+        "WW_Daily_copiesPml": 152.5,
+        "InHospital": 377,
+        "InICU": 79,
+        "Intubated": 38
+    },
+    {
+        "Date": "10/26/2020",
+        "DailyTest": 20768,
+        "PositiveResults": 1522,
+        "WW_Daily_copiesPml": 120,
+        "InHospital": 400,
+        "InICU": 82,
+        "Intubated": 41
+    },
+    {
+        "Date": "10/27/2020",
+        "DailyTest": 20201,
+        "PositiveResults": 1344,
+        "WW_Daily_copiesPml": 151,
+        "InHospital": 403,
+        "InICU": 77,
+        "Intubated": 42
+    },
+    {
+        "Date": "10/28/2020",
+        "DailyTest": 19136,
+        "PositiveResults": 1438,
+        "WW_Daily_copiesPml": 173,
+        "InHospital": 393,
+        "InICU": 73,
+        "Intubated": 43
+    },
+    {
+        "Date": "10/29/2020",
+        "DailyTest": 21536,
+        "PositiveResults": 1385,
+        "WW_Daily_copiesPml": 94.5,
+        "InHospital": 407,
+        "InICU": 80,
+        "Intubated": 41
+    },
+    {
+        "Date": "10/30/2020",
+        "DailyTest": 16576,
+        "PositiveResults": 1123,
+        "WW_Daily_copiesPml": 167.5,
+        "InHospital": 434,
+        "InICU": 89,
+        "Intubated": 48
+    },
+    {
+        "Date": "10/31/2020",
+        "DailyTest": 11685,
+        "PositiveResults": 870,
+        "WW_Daily_copiesPml": 108,
+        "InHospital": 436,
+        "InICU": 86,
+        "Intubated": 47
+    },
+    {
+        "Date": "11/1/2020",
+        "DailyTest": 8161,
+        "PositiveResults": 522,
+        "WW_Daily_copiesPml": 142,
+        "InHospital": 469,
+        "InICU": 96,
+        "Intubated": 50
+    },
+    {
+        "Date": "11/2/2020",
+        "DailyTest": 23338,
+        "PositiveResults": 1835,
+        "WW_Daily_copiesPml": 183.5,
+        "InHospital": 485,
+        "InICU": 96,
+        "Intubated": 51
+    },
+    {
+        "Date": "11/3/2020",
+        "DailyTest": 26193,
+        "PositiveResults": 1905,
+        "WW_Daily_copiesPml": 286.5,
+        "InHospital": 502,
+        "InICU": 109,
+        "Intubated": 55
+    },
+    {
+        "Date": "11/4/2020",
+        "DailyTest": 21954,
+        "PositiveResults": 2172,
+        "WW_Daily_copiesPml": 180,
+        "InHospital": 498,
+        "InICU": 115,
+        "Intubated": 56
+    },
+    {
+        "Date": "11/5/2020",
+        "DailyTest": 23144,
+        "PositiveResults": 2415,
+        "WW_Daily_copiesPml": 311.5,
+        "InHospital": 513,
+        "InICU": 118,
+        "Intubated": 57
+    },
+    {
+        "Date": "11/6/2020",
+        "DailyTest": 21120,
+        "PositiveResults": 2238,
+        "WW_Daily_copiesPml": 206.5,
+        "InHospital": 535,
+        "InICU": 127,
+        "Intubated": 60
+    },
+    {
+        "Date": "11/7/2020",
+        "DailyTest": 12948,
+        "PositiveResults": 1328,
+        "WW_Daily_copiesPml": 230.5,
+        "InHospital": 568,
+        "InICU": 144,
+        "Intubated": 62
+    },
+    {
+        "Date": "11/8/2020",
+        "DailyTest": 10168,
+        "PositiveResults": 943,
+        "WW_Daily_copiesPml": 296,
+        "InHospital": 588,
+        "InICU": 143,
+        "Intubated": 66
+    },
+    {
+        "Date": "11/9/2020",
+        "DailyTest": 25315,
+        "PositiveResults": 3173,
+        "WW_Daily_copiesPml": 249.5,
+        "InHospital": 618,
+        "InICU": 150,
+        "Intubated": 68
+    },
+    {
+        "Date": "11/10/2020",
+        "DailyTest": 24360,
+        "PositiveResults": 2822,
+        "WW_Daily_copiesPml": 315,
+        "InHospital": 659,
+        "InICU": 152,
+        "Intubated": 72
+    },
+    {
+        "Date": "11/11/2020",
+        "DailyTest": 23563,
+        "PositiveResults": 2662,
+        "WW_Daily_copiesPml": 320,
+        "InHospital": 661,
+        "InICU": 151,
+        "Intubated": 68
+    },
+    {
+        "Date": "11/12/2020",
+        "DailyTest": 25161,
+        "PositiveResults": 2982,
+        "WW_Daily_copiesPml": 329.5,
+        "InHospital": 687,
+        "InICU": 153,
+        "Intubated": 71
+    },
+    {
+        "Date": "11/13/2020",
+        "DailyTest": 22417,
+        "PositiveResults": 2603,
+        "WW_Daily_copiesPml": 278,
+        "InHospital": 705,
+        "InICU": 151,
+        "Intubated": 71
+    },
+    {
+        "Date": "11/14/2020",
+        "DailyTest": 14886,
+        "PositiveResults": 1711,
+        "WW_Daily_copiesPml": 336,
+        "InHospital": 737,
+        "InICU": 159,
+        "Intubated": 70
+    },
+    {
+        "Date": "11/15/2020",
+        "DailyTest": 10513,
+        "PositiveResults": 1191,
+        "WW_Daily_copiesPml": 334,
+        "InHospital": 781,
+        "InICU": 159,
+        "Intubated": 74
+    },
+    {
+        "Date": "11/16/2020",
+        "DailyTest": 28445,
+        "PositiveResults": 3526,
+        "WW_Daily_copiesPml": 305.5,
+        "InHospital": 835,
+        "InICU": 159,
+        "Intubated": 73
+    },
+    {
+        "Date": "11/17/2020",
+        "DailyTest": 28862,
+        "PositiveResults": 3135,
+        "WW_Daily_copiesPml": 420,
+        "InHospital": 885,
+        "InICU": 173,
+        "Intubated": 72
+    },
+    {
+        "Date": "11/18/2020",
+        "DailyTest": 31091,
+        "PositiveResults": 2921,
+        "WW_Daily_copiesPml": 366.5,
+        "InHospital": 917,
+        "InICU": 181,
+        "Intubated": 75
+    },
+    {
+        "Date": "11/19/2020",
+        "DailyTest": 31045,
+        "PositiveResults": 2998,
+        "WW_Daily_copiesPml": 297.5,
+        "InHospital": 904,
+        "InICU": 179,
+        "Intubated": 75
+    },
+    {
+        "Date": "11/20/2020",
+        "DailyTest": 26890,
+        "PositiveResults": 2848,
+        "WW_Daily_copiesPml": 338,
+        "InHospital": 891,
+        "InICU": 187,
+        "Intubated": 85
+    },
+    {
+        "Date": "11/21/2020",
+        "DailyTest": 18950,
+        "PositiveResults": 1764,
+        "WW_Daily_copiesPml": 327.5,
+        "InHospital": 893,
+        "InICU": 192,
+        "Intubated": 88
+    },
+    {
+        "Date": "11/22/2020",
+        "DailyTest": 12075,
+        "PositiveResults": 1194,
+        "WW_Daily_copiesPml": 423,
+        "InHospital": 922,
+        "InICU": 204,
+        "Intubated": 91
+    },
+    {
+        "Date": "11/23/2020",
+        "DailyTest": 30347,
+        "PositiveResults": 3588,
+        "WW_Daily_copiesPml": 410,
+        "InHospital": 954,
+        "InICU": 205,
+        "Intubated": 99
+    },
+    {
+        "Date": "11/24/2020",
+        "DailyTest": 27806,
+        "PositiveResults": 3790,
+        "WW_Daily_copiesPml": 522,
+        "InHospital": 942,
+        "InICU": 208,
+        "Intubated": 108
+    },
+    {
+        "Date": "11/25/2020",
+        "DailyTest": 19983,
+        "PositiveResults": 2943,
+        "WW_Daily_copiesPml": 478,
+        "InHospital": 966,
+        "InICU": 211,
+        "Intubated": 107
+    },
+    {
+        "Date": "11/26/2020",
+        "DailyTest": 2247,
+        "PositiveResults": 445,
+        "WW_Daily_copiesPml": 773.5,
+        "InHospital": 986,
+        "InICU": 209,
+        "Intubated": 109
+    },
+    {
+        "Date": "11/27/2020",
+        "DailyTest": 19265,
+        "PositiveResults": 3379,
+        "WW_Daily_copiesPml": 564.5,
+        "InHospital": 1045,
+        "InICU": 225,
+        "Intubated": 111
+    },
+    {
+        "Date": "11/28/2020",
+        "DailyTest": 16914,
+        "PositiveResults": 2908,
+        "WW_Daily_copiesPml": 647,
+        "InHospital": 1081,
+        "InICU": 238,
+        "Intubated": 110
+    },
+    {
+        "Date": "11/29/2020",
+        "DailyTest": 11572,
+        "PositiveResults": 1762,
+        "WW_Daily_copiesPml": 583,
+        "InHospital": 1174,
+        "InICU": 244,
+        "Intubated": 126
+    },
+    {
+        "Date": "11/30/2020",
+        "DailyTest": 30477,
+        "PositiveResults": 5505,
+        "WW_Daily_copiesPml": 723,
+        "InHospital": 1191,
+        "InICU": 239,
+        "Intubated": 130
+    },
+    {
+        "Date": "12/1/2020",
+        "DailyTest": 30779,
+        "PositiveResults": 5864,
+        "WW_Daily_copiesPml": 699.5,
+        "InHospital": 1259,
+        "InICU": 264,
+        "Intubated": 126
+    },
+    {
+        "Date": "12/2/2020",
+        "DailyTest": 30105,
+        "PositiveResults": 6090,
+        "WW_Daily_copiesPml": 644,
+        "InHospital": 1324,
+        "InICU": 261,
+        "Intubated": 137
+    },
+    {
+        "Date": "12/3/2020",
+        "DailyTest": 29340,
+        "PositiveResults": 5814,
+        "WW_Daily_copiesPml": 856,
+        "InHospital": 1394,
+        "InICU": 278,
+        "Intubated": 134
+    },
+    {
+        "Date": "12/4/2020",
+        "DailyTest": 28429,
+        "PositiveResults": 5305,
+        "WW_Daily_copiesPml": 1481,
+        "InHospital": 1428,
+        "InICU": 283,
+        "Intubated": 138
+    },
+    {
+        "Date": "12/5/2020",
+        "DailyTest": 12646,
+        "PositiveResults": 2187,
+        "WW_Daily_copiesPml": 801.5,
+        "InHospital": 1416,
+        "InICU": 298,
+        "Intubated": 139
+    },
+    {
+        "Date": "12/6/2020",
+        "DailyTest": 11710,
+        "PositiveResults": 2099,
+        "WW_Daily_copiesPml": 1038.5,
+        "InHospital": 1516,
+        "InICU": 302,
+        "Intubated": 153
+    },
+    {
+        "Date": "12/7/2020",
+        "DailyTest": 29866,
+        "PositiveResults": 6212,
+        "WW_Daily_copiesPml": 1177,
+        "InHospital": 1552,
+        "InICU": 310,
+        "Intubated": 166
+    },
+    {
+        "Date": "12/8/2020",
+        "DailyTest": 27304,
+        "PositiveResults": 5402,
+        "WW_Daily_copiesPml": 776,
+        "InHospital": 1576,
+        "InICU": 308,
+        "Intubated": 162
+    },
+    {
+        "Date": "12/9/2020",
+        "DailyTest": 27273,
+        "PositiveResults": 5421,
+        "WW_Daily_copiesPml": 706.5,
+        "InHospital": 1607,
+        "InICU": 307,
+        "Intubated": 168
+    },
+    {
+        "Date": "12/10/2020",
+        "DailyTest": 27007,
+        "PositiveResults": 5463,
+        "WW_Daily_copiesPml": 883,
+        "InHospital": 1605,
+        "InICU": 309,
+        "Intubated": 165
+    },
+    {
+        "Date": "12/11/2020",
+        "DailyTest": 25942,
+        "PositiveResults": 4941,
+        "WW_Daily_copiesPml": 1014,
+        "InHospital": 1670,
+        "InICU": 334,
+        "Intubated": 170
+    },
+    {
+        "Date": "12/12/2020",
+        "DailyTest": 15618,
+        "PositiveResults": 2864,
+        "WW_Daily_copiesPml": 893.5,
+        "InHospital": 1707,
+        "InICU": 342,
+        "Intubated": 178
+    },
+    {
+        "Date": "12/13/2020",
+        "DailyTest": 12378,
+        "PositiveResults": 2202,
+        "WW_Daily_copiesPml": 1184.5,
+        "InHospital": 1788,
+        "InICU": 354,
+        "Intubated": 186
+    },
+    {
+        "Date": "12/14/2020",
+        "DailyTest": 28752,
+        "PositiveResults": 6272,
+        "WW_Daily_copiesPml": 1233.5,
+        "InHospital": 1834,
+        "InICU": 371,
+        "Intubated": 200
+    },
+    {
+        "Date": "12/15/2020",
+        "DailyTest": 30190,
+        "PositiveResults": 5996,
+        "WW_Daily_copiesPml": 496,
+        "InHospital": 1851,
+        "InICU": 382,
+        "Intubated": 205
+    },
+    {
+        "Date": "12/16/2020",
+        "DailyTest": 29259,
+        "PositiveResults": 5649,
+        "WW_Daily_copiesPml": 899.5,
+        "InHospital": 1871,
+        "InICU": 383,
+        "Intubated": 207
+    },
+    {
+        "Date": "12/17/2020",
+        "DailyTest": 13059,
+        "PositiveResults": 1575,
+        "WW_Daily_copiesPml": 1127,
+        "InHospital": 1874,
+        "InICU": 370,
+        "Intubated": 204
+    },
+    {
+        "Date": "12/18/2020",
+        "DailyTest": 27334,
+        "PositiveResults": 5691,
+        "WW_Daily_copiesPml": 920.5,
+        "InHospital": 1927,
+        "InICU": 383,
+        "Intubated": 196
+    },
+    {
+        "Date": "12/19/2020",
+        "DailyTest": 20298,
+        "PositiveResults": 3650,
+        "WW_Daily_copiesPml": 925,
+        "InHospital": 1919,
+        "InICU": 387,
+        "Intubated": 205
+    },
+    {
+        "Date": "12/20/2020",
+        "DailyTest": 13895,
+        "PositiveResults": 2332,
+        "WW_Daily_copiesPml": 923.5,
+        "InHospital": 1991,
+        "InICU": 410,
+        "Intubated": 215
+    },
+    {
+        "Date": "12/21/2020",
+        "DailyTest": 34678,
+        "PositiveResults": 6480,
+        "WW_Daily_copiesPml": 849,
+        "InHospital": 2004,
+        "InICU": 412,
+        "Intubated": 233
+    },
+    {
+        "Date": "12/22/2020",
+        "DailyTest": 31157,
+        "PositiveResults": 5941,
+        "WW_Daily_copiesPml": 997,
+        "InHospital": 2066,
+        "InICU": 409,
+        "Intubated": 226
+    },
+    {
+        "Date": "12/23/2020",
+        "DailyTest": 21702,
+        "PositiveResults": 4472,
+        "WW_Daily_copiesPml": 949.5,
+        "InHospital": 2095,
+        "InICU": 409,
+        "Intubated": 232
+    },
+    {
+        "Date": "12/24/2020",
+        "DailyTest": 10896,
+        "PositiveResults": 2649,
+        "WW_Daily_copiesPml": 914.5,
+        "InHospital": 2091,
+        "InICU": 409,
+        "Intubated": 250
+    },
+    {
+        "Date": "12/25/2020",
+        "DailyTest": 1551,
+        "PositiveResults": 477,
+        "WW_Daily_copiesPml": 879,
+        "InHospital": 2077,
+        "InICU": 416,
+        "Intubated": 232
+    },
+    {
+        "Date": "12/26/2020",
+        "DailyTest": 16811,
+        "PositiveResults": 4190,
+        "WW_Daily_copiesPml": 541,
+        "InHospital": 2156,
+        "InICU": 416,
+        "Intubated": 230
+    },
+    {
+        "Date": "12/27/2020",
+        "DailyTest": 11479,
+        "PositiveResults": 2666,
+        "WW_Daily_copiesPml": 758.5,
+        "InHospital": 2230,
+        "InICU": 430,
+        "Intubated": 234
+    },
+    {
+        "Date": "12/28/2020",
+        "DailyTest": 32041,
+        "PositiveResults": 8392,
+        "WW_Daily_copiesPml": 1130.5,
+        "InHospital": 2259,
+        "InICU": 431,
+        "Intubated": 225
+    },
+    {
+        "Date": "12/29/2020",
+        "DailyTest": 29259,
+        "PositiveResults": 7182,
+        "WW_Daily_copiesPml": 894,
+        "InHospital": 2257,
+        "InICU": 433,
+        "Intubated": 231
+    },
+    {
+        "Date": "12/30/2020",
+        "DailyTest": 23904,
+        "PositiveResults": 5717,
+        "WW_Daily_copiesPml": 1186.5,
+        "InHospital": 2271,
+        "InICU": 417,
+        "Intubated": 240
+    },
+    {
+        "Date": "12/31/2020",
+        "DailyTest": 15354,
+        "PositiveResults": 4169,
+        "WW_Daily_copiesPml": 811.5,
+        "InHospital": 2323,
+        "InICU": 429,
+        "Intubated": 258
+    },
+    {
+        "Date": "1/1/2021",
+        "DailyTest": 5322,
+        "PositiveResults": 1354,
+        "WW_Daily_copiesPml": 603,
+        "InHospital": 2280,
+        "InICU": 412,
+        "Intubated": 246
+    },
+    {
+        "Date": "1/2/2021",
+        "DailyTest": 18605,
+        "PositiveResults": 4684,
+        "WW_Daily_copiesPml": 593.5,
+        "InHospital": 2291,
+        "InICU": 416,
+        "Intubated": 258
+    },
+    {
+        "Date": "1/3/2021",
+        "DailyTest": 12629,
+        "PositiveResults": 2988,
+        "WW_Daily_copiesPml": 757.5,
+        "InHospital": 2339,
+        "InICU": 423,
+        "Intubated": 258
+    },
+    {
+        "Date": "1/4/2021",
+        "DailyTest": 34343,
+        "PositiveResults": 9047,
+        "WW_Daily_copiesPml": 850,
+        "InHospital": 2428,
+        "InICU": 425,
+        "Intubated": 264
+    },
+    {
+        "Date": "1/5/2021",
+        "DailyTest": 30319,
+        "PositiveResults": 7714,
+        "WW_Daily_copiesPml": 957,
+        "InHospital": 2416,
+        "InICU": 442,
+        "Intubated": 281
+    },
+    {
+        "Date": "1/6/2021",
+        "DailyTest": 28155,
+        "PositiveResults": 7058,
+        "WW_Daily_copiesPml": 1192,
+        "InHospital": 2386,
+        "InICU": 455,
+        "Intubated": 277
+    },
+    {
+        "Date": "1/7/2021",
+        "DailyTest": 26623,
+        "PositiveResults": 6457,
+        "WW_Daily_copiesPml": 1056,
+        "InHospital": 2311,
+        "InICU": 440,
+        "Intubated": 280
+    },
+    {
+        "Date": "1/8/2021",
+        "DailyTest": 24195,
+        "PositiveResults": 5742,
+        "WW_Daily_copiesPml": 1538,
+        "InHospital": 2291,
+        "InICU": 445,
+        "Intubated": 280
+    },
+    {
+        "Date": "1/9/2021",
+        "DailyTest": 16432,
+        "PositiveResults": 3596,
+        "WW_Daily_copiesPml": 1607,
+        "InHospital": 2225,
+        "InICU": 459,
+        "Intubated": 282
+    },
+    {
+        "Date": "1/10/2021",
+        "DailyTest": 11532,
+        "PositiveResults": 2378,
+        "WW_Daily_copiesPml": 1448.5,
+        "InHospital": 2211,
+        "InICU": 451,
+        "Intubated": 285
+    },
+    {
+        "Date": "1/11/2021",
+        "DailyTest": 28069,
+        "PositiveResults": 6470,
+        "WW_Daily_copiesPml": 1541,
+        "InHospital": 2219,
+        "InICU": 451,
+        "Intubated": 271
+    },
+    {
+        "Date": "1/12/2021",
+        "DailyTest": 25721,
+        "PositiveResults": 5539,
+        "WW_Daily_copiesPml": 911,
+        "InHospital": 2205,
+        "InICU": 461,
+        "Intubated": 286
+    },
+    {
+        "Date": "1/13/2021",
+        "DailyTest": 23657,
+        "PositiveResults": 4891,
+        "WW_Daily_copiesPml": 1052.5,
+        "InHospital": 2226,
+        "InICU": 454,
+        "Intubated": 294
+    },
+    {
+        "Date": "1/14/2021",
+        "DailyTest": 23245,
+        "PositiveResults": 4998,
+        "WW_Daily_copiesPml": 947,
+        "InHospital": 2201,
+        "InICU": 451,
+        "Intubated": 293
+    },
+    {
+        "Date": "1/15/2021",
+        "DailyTest": 21867,
+        "PositiveResults": 4400,
+        "WW_Daily_copiesPml": 931,
+        "InHospital": 2197,
+        "InICU": 433,
+        "Intubated": 294
+    },
+    {
+        "Date": "1/16/2021",
+        "DailyTest": 14488,
+        "PositiveResults": 2669,
+        "WW_Daily_copiesPml": 821.5,
+        "InHospital": 2165,
+        "InICU": 433,
+        "Intubated": 288
+    },
+    {
+        "Date": "1/17/2021",
+        "DailyTest": 11139,
+        "PositiveResults": 1990,
+        "WW_Daily_copiesPml": 770,
+        "InHospital": 2206,
+        "InICU": 427,
+        "Intubated": 288
+    },
+    {
+        "Date": "1/18/2021",
+        "DailyTest": 20194,
+        "PositiveResults": 4322,
+        "WW_Daily_copiesPml": 872,
+        "InHospital": 2213,
+        "InICU": 432,
+        "Intubated": 277
+    },
+    {
+        "Date": "1/19/2021",
+        "DailyTest": 26861,
+        "PositiveResults": 5386,
+        "WW_Daily_copiesPml": 1110.5,
+        "InHospital": 2209,
+        "InICU": 444,
+        "Intubated": 299
+    },
+    {
+        "Date": "1/20/2021",
+        "DailyTest": 21575,
+        "PositiveResults": 4439,
+        "WW_Daily_copiesPml": 520.5,
+        "InHospital": 2152,
+        "InICU": 430,
+        "Intubated": 287
+    },
+    {
+        "Date": "1/21/2021",
+        "DailyTest": 21842,
+        "PositiveResults": 4342,
+        "WW_Daily_copiesPml": 542.5,
+        "InHospital": 2098,
+        "InICU": 426,
+        "Intubated": 282
+    },
+    {
+        "Date": "1/22/2021",
+        "DailyTest": 19766,
+        "PositiveResults": 3949,
+        "WW_Daily_copiesPml": 680,
+        "InHospital": 2055,
+        "InICU": 418,
+        "Intubated": 291
+    },
+    {
+        "Date": "1/23/2021",
+        "DailyTest": 13239,
+        "PositiveResults": 2440,
+        "WW_Daily_copiesPml": 975.5,
+        "InHospital": 1946,
+        "InICU": 409,
+        "Intubated": 286
+    },
+    {
+        "Date": "1/24/2021",
+        "DailyTest": 10602,
+        "PositiveResults": 1590,
+        "WW_Daily_copiesPml": 1220,
+        "InHospital": 1955,
+        "InICU": 418,
+        "Intubated": 285
+    },
+    {
+        "Date": "1/25/2021",
+        "DailyTest": 23528,
+        "PositiveResults": 4350,
+        "WW_Daily_copiesPml": 2201.5,
+        "InHospital": 1951,
+        "InICU": 431,
+        "Intubated": 278
+    },
+    {
+        "Date": "1/26/2021",
+        "DailyTest": 22196,
+        "PositiveResults": 3768,
+        "WW_Daily_copiesPml": 499,
+        "InHospital": 1930,
+        "InICU": 418,
+        "Intubated": 270
+    },
+    {
+        "Date": "1/27/2021",
+        "DailyTest": 19059,
+        "PositiveResults": 3091,
+        "WW_Daily_copiesPml": 309.5,
+        "InHospital": 1878,
+        "InICU": 405,
+        "Intubated": 255
+    },
+    {
+        "Date": "1/28/2021",
+        "DailyTest": 18221,
+        "PositiveResults": 3102,
+        "WW_Daily_copiesPml": 584,
+        "InHospital": 1789,
+        "InICU": 412,
+        "Intubated": 248
+    },
+    {
+        "Date": "1/29/2021",
+        "DailyTest": 16228,
+        "PositiveResults": 2649,
+        "WW_Daily_copiesPml": 517.5,
+        "InHospital": 1739,
+        "InICU": 393,
+        "Intubated": 239
+    },
+    {
+        "Date": "1/30/2021",
+        "DailyTest": 10104,
+        "PositiveResults": 1694,
+        "WW_Daily_copiesPml": 477.5,
+        "InHospital": 1676,
+        "InICU": 371,
+        "Intubated": 231
+    },
+    {
+        "Date": "1/31/2021",
+        "DailyTest": 8413,
+        "PositiveResults": 1338,
+        "WW_Daily_copiesPml": 420.5,
+        "InHospital": 1676,
+        "InICU": 373,
+        "Intubated": 222
+    },
+    {
+        "Date": "2/1/2021",
+        "DailyTest": 14690,
+        "PositiveResults": 2710,
+        "WW_Daily_copiesPml": 431,
+        "InHospital": 1640,
+        "InICU": 353,
+        "Intubated": 224
+    },
+    {
+        "Date": "2/2/2021",
+        "DailyTest": 12348,
+        "PositiveResults": 2365,
+        "WW_Daily_copiesPml": 348,
+        "InHospital": 1635,
+        "InICU": 335,
+        "Intubated": 203
+    },
+    {
+        "Date": "2/3/2021",
+        "DailyTest": 18054,
+        "PositiveResults": 3264,
+        "WW_Daily_copiesPml": 321.5,
+        "InHospital": 1554,
+        "InICU": 335,
+        "Intubated": 208
+    },
+    {
+        "Date": "2/4/2021",
+        "DailyTest": 15637,
+        "PositiveResults": 2910,
+        "WW_Daily_copiesPml": 304.5,
+        "InHospital": 1503,
+        "InICU": 322,
+        "Intubated": 196
+    },
+    {
+        "Date": "2/5/2021",
+        "DailyTest": 14290,
+        "PositiveResults": 2498,
+        "WW_Daily_copiesPml": 318,
+        "InHospital": 1451,
+        "InICU": 310,
+        "Intubated": 189
+    },
+    {
+        "Date": "2/6/2021",
+        "DailyTest": 9145,
+        "PositiveResults": 1488,
+        "WW_Daily_copiesPml": 476.5,
+        "InHospital": 1389,
+        "InICU": 318,
+        "Intubated": 191
+    },
+    {
+        "Date": "2/7/2021",
+        "DailyTest": 5277,
+        "PositiveResults": 820,
+        "WW_Daily_copiesPml": 522.5,
+        "InHospital": 1387,
+        "InICU": 329,
+        "Intubated": 188
+    },
+    {
+        "Date": "2/8/2021",
+        "DailyTest": 16590,
+        "PositiveResults": 2649,
+        "WW_Daily_copiesPml": 452,
+        "InHospital": 1401,
+        "InICU": 324,
+        "Intubated": 191
+    },
+    {
+        "Date": "2/9/2021",
+        "DailyTest": 13354,
+        "PositiveResults": 1939,
+        "WW_Daily_copiesPml": 331,
+        "InHospital": 1358,
+        "InICU": 309,
+        "Intubated": 183
+    },
+    {
+        "Date": "2/10/2021",
+        "DailyTest": 15318,
+        "PositiveResults": 2254,
+        "WW_Daily_copiesPml": 219,
+        "InHospital": 1313,
+        "InICU": 304,
+        "Intubated": 185
+    },
+    {
+        "Date": "2/11/2021",
+        "DailyTest": 14457,
+        "PositiveResults": 2093,
+        "WW_Daily_copiesPml": 426.5,
+        "InHospital": 1223,
+        "InICU": 300,
+        "Intubated": 180
+    },
+    {
+        "Date": "2/12/2021",
+        "DailyTest": 11509,
+        "PositiveResults": 1692,
+        "WW_Daily_copiesPml": 322,
+        "InHospital": 1149,
+        "InICU": 291,
+        "Intubated": 196
+    },
+    {
+        "Date": "2/13/2021",
+        "DailyTest": 8349,
+        "PositiveResults": 1111,
+        "WW_Daily_copiesPml": 275,
+        "InHospital": 1125,
+        "InICU": 290,
+        "Intubated": 183
+    },
+    {
+        "Date": "2/14/2021",
+        "DailyTest": 6052,
+        "PositiveResults": 805,
+        "WW_Daily_copiesPml": 413,
+        "InHospital": 1107,
+        "InICU": 286,
+        "Intubated": 174
+    },
+    {
+        "Date": "2/15/2021",
+        "DailyTest": 10572,
+        "PositiveResults": 1635,
+        "WW_Daily_copiesPml": 327.5,
+        "InHospital": 1096,
+        "InICU": 275,
+        "Intubated": 177
+    },
+    {
+        "Date": "2/16/2021",
+        "DailyTest": 13057,
+        "PositiveResults": 1919,
+        "WW_Daily_copiesPml": 426.5,
+        "InHospital": 1088,
+        "InICU": 273,
+        "Intubated": 179
+    },
+    {
+        "Date": "2/17/2021",
+        "DailyTest": 13052,
+        "PositiveResults": 1866,
+        "WW_Daily_copiesPml": 279,
+        "InHospital": 1029,
+        "InICU": 271,
+        "Intubated": 173
+    },
+    {
+        "Date": "2/18/2021",
+        "DailyTest": 12398,
+        "PositiveResults": 1697,
+        "WW_Daily_copiesPml": 444,
+        "InHospital": 990,
+        "InICU": 258,
+        "Intubated": 163
+    },
+    {
+        "Date": "2/19/2021",
+        "DailyTest": 10890,
+        "PositiveResults": 1435,
+        "WW_Daily_copiesPml": 417.5,
+        "InHospital": 970,
+        "InICU": 246,
+        "Intubated": 152
+    },
+    {
+        "Date": "2/20/2021",
+        "DailyTest": 9098,
+        "PositiveResults": 1029,
+        "WW_Daily_copiesPml": 250,
+        "InHospital": 927,
+        "InICU": 234,
+        "Intubated": 153
+    },
+    {
+        "Date": "2/21/2021",
+        "DailyTest": 7648,
+        "PositiveResults": 923,
+        "WW_Daily_copiesPml": 578,
+        "InHospital": 888,
+        "InICU": 229,
+        "Intubated": 140
+    },
+    {
+        "Date": "2/22/2021",
+        "DailyTest": 16378,
+        "PositiveResults": 2100,
+        "WW_Daily_copiesPml": 536.5,
+        "InHospital": 879,
+        "InICU": 225,
+        "Intubated": 147
+    },
+    {
+        "Date": "2/23/2021",
+        "DailyTest": 13763,
+        "PositiveResults": 1816,
+        "WW_Daily_copiesPml": 221,
+        "InHospital": 875,
+        "InICU": 219,
+        "Intubated": 151
+    },
+    {
+        "Date": "2/24/2021",
+        "DailyTest": 11969,
+        "PositiveResults": 1674,
+        "WW_Daily_copiesPml": 283,
+        "InHospital": 853,
+        "InICU": 221,
+        "Intubated": 142
+    },
+    {
+        "Date": "2/25/2021",
+        "DailyTest": 11568,
+        "PositiveResults": 1581,
+        "WW_Daily_copiesPml": 176,
+        "InHospital": 807,
+        "InICU": 211,
+        "Intubated": 137
+    },
+    {
+        "Date": "2/26/2021",
+        "DailyTest": 10904,
+        "PositiveResults": 1426,
+        "WW_Daily_copiesPml": 129.5,
+        "InHospital": 785,
+        "InICU": 204,
+        "Intubated": 139
+    },
+    {
+        "Date": "2/27/2021",
+        "DailyTest": 7052,
+        "PositiveResults": 961,
+        "WW_Daily_copiesPml": 314,
+        "InHospital": 760,
+        "InICU": 183,
+        "Intubated": 124
+    },
+    {
+        "Date": "2/28/2021",
+        "DailyTest": 5964,
+        "PositiveResults": 859,
+        "WW_Daily_copiesPml": 283.5,
+        "InHospital": 788,
+        "InICU": 184,
+        "Intubated": 119
+    },
+    {
+        "Date": "3/1/2021",
+        "DailyTest": 13435,
+        "PositiveResults": 1779,
+        "WW_Daily_copiesPml": 330,
+        "InHospital": 775,
+        "InICU": 187,
+        "Intubated": 116
+    },
+    {
+        "Date": "3/2/2021",
+        "DailyTest": 11234,
+        "PositiveResults": 1431,
+        "WW_Daily_copiesPml": 244,
+        "InHospital": 755,
+        "InICU": 173,
+        "Intubated": 109
+    },
+    {
+        "Date": "3/3/2021",
+        "DailyTest": 11314,
+        "PositiveResults": 1564,
+        "WW_Daily_copiesPml": 285,
+        "InHospital": 741,
+        "InICU": 168,
+        "Intubated": 100
+    },
+    {
+        "Date": "3/4/2021",
+        "DailyTest": 10739,
+        "PositiveResults": 1526,
+        "WW_Daily_copiesPml": 564.5,
+        "InHospital": 716,
+        "InICU": 180,
+        "Intubated": 109
+    },
+    {
+        "Date": "3/5/2021",
+        "DailyTest": 9933,
+        "PositiveResults": 1358,
+        "WW_Daily_copiesPml": 352,
+        "InHospital": 687,
+        "InICU": 176,
+        "Intubated": 114
+    },
+    {
+        "Date": "3/6/2021",
+        "DailyTest": 6926,
+        "PositiveResults": 862,
+        "WW_Daily_copiesPml": 271,
+        "InHospital": 665,
+        "InICU": 174,
+        "Intubated": 116
+    },
+    {
+        "Date": "3/7/2021",
+        "DailyTest": 5971,
+        "PositiveResults": 737,
+        "WW_Daily_copiesPml": 249,
+        "InHospital": 672,
+        "InICU": 180,
+        "Intubated": 123
+    },
+    {
+        "Date": "3/8/2021",
+        "DailyTest": 12837,
+        "PositiveResults": 1732,
+        "WW_Daily_copiesPml": 341.5,
+        "InHospital": 704,
+        "InICU": 185,
+        "Intubated": 117
+    },
+    {
+        "Date": "3/9/2021",
+        "DailyTest": 11126,
+        "PositiveResults": 1427,
+        "WW_Daily_copiesPml": 226.5,
+        "InHospital": 689,
+        "InICU": 183,
+        "Intubated": 121
+    },
+    {
+        "Date": "3/10/2021",
+        "DailyTest": 7156,
+        "PositiveResults": 940,
+        "WW_Daily_copiesPml": 207,
+        "InHospital": 680,
+        "InICU": 176,
+        "Intubated": 122
+    }
+]

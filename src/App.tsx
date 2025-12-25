@@ -16,6 +16,8 @@ import MafsTwo from './components/MafsTwo';
 import CarbonForteen from './components/CarbonForteen';
 import CovidWastewaterPlot from './components/CovidWastewaterPlot';
 import Metronome from './components/Metronome';
+import DyeLif from './components/DyeLif';
+import TriangleLayer from './components/TriangleLayer';
 
 function App() {
   return (
@@ -59,6 +61,8 @@ function App() {
             <Route path="/carbon14" element={<CarbonForteen />} />
             <Route path="/covid-wastewater" element={<CovidWastewaterPlot />} />
             <Route path="/metronome" element={<Metronome />} />
+            <Route path="/dyelif" element={<DyeLif />} />
+            <Route path="/triangle-layer" element={<TriangleLayer />} />
           </Routes>
         </Box>
       </Box>
