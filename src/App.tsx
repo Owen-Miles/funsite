@@ -12,6 +12,10 @@ import MapArtNj from './components/MapArtNj';
 import MapArtRadiohead from './components/MapArtRadiohead';
 import RandomSinWaveFun from './components/RandomSinWaveFun';
 import MafsOne from './components/MafsOne';
+import MafsTwo from './components/MafsTwo';
+import CarbonForteen from './components/CarbonForteen';
+import CovidWastewaterPlot from './components/CovidWastewaterPlot';
+import Metronome from './components/Metronome';
 
 function App() {
   return (
@@ -41,7 +45,7 @@ function App() {
         <Divider />
         
         {/* Routes */}
-        <Box sx={{ py: 1 }}>
+        <Box sx={{ py: 3 }}>
           <Routes>
             <Route path="/" element={<Gallery />} />
             <Route path="/gallery" element={<Gallery />} />
@@ -51,6 +55,10 @@ function App() {
             <Route path="/map-art-radiohead" element={<MapArtRadiohead />} />
             <Route path="/random-wave" element={<RandomSinWaveFun />} />
             <Route path="/mafs1" element={<MafsOne />} />
+            <Route path="/mafs2" element={<MafsTwo />} />
+            <Route path="/carbon14" element={<CarbonForteen />} />
+            <Route path="/covid-wastewater" element={<CovidWastewaterPlot />} />
+            <Route path="/metronome" element={<Metronome />} />
           </Routes>
         </Box>
       </Box>

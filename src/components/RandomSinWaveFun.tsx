@@ -15,7 +15,7 @@ function RandomSinWaveFun() {
   const transitionDuration = 1300;
 
   // Responsive width
-  const width = typeof window !== 'undefined' ? window.innerWidth - 20 : 800;
+  const width = typeof window !== 'undefined' ? window.innerWidth : 800;
 
   // Generate plot data
   const plotData = useMemo(() => {
@@ -32,6 +32,11 @@ function RandomSinWaveFun() {
       x: e,
       y: Math.sin(e * radioMultiplier) * (radioMultiplier + 1),
     }));
+  }, [radioMultiplier]);
+
+  // Random color that changes with the data
+  const randomColor = useMemo(() => {
+    return `rgb(${Math.random() * 255},${Math.random() * 255},${Math.random() * 255})`;
   }, [radioMultiplier]);
 
   // Scales
@@ -54,13 +59,15 @@ function RandomSinWaveFun() {
     if (!svgRef.current) return;
 
     const svg = d3.select(svgRef.current);
-    
+
     // Clear previous content
     svg.selectAll('*').remove();
 
     svg
       .attr('width', width + margin.left + margin.right)
-      .attr('height', height + margin.top + margin.bottom);
+      .attr('height', height + margin.top + margin.bottom)
+      .style('display', 'block')
+      .style('margin', '0 auto');
 
     svg
       .append('rect')
@@ -81,11 +88,7 @@ function RandomSinWaveFun() {
       .attr('y', (e) => scales.y(e.y))
       .attr('width', 3)
       .attr('height', Math.random() * 200 + 20)
-      .attr(
-        'fill',
-        () =>
-          `rgb(${Math.random() * 255},${Math.random() * 255},${Math.random() * 255})`
-      );
+      .attr('fill', randomColor);
   }, []);
 
   // Update visualization
@@ -102,12 +105,8 @@ function RandomSinWaveFun() {
       .attr('x', (e) => scales.x(e.x))
       .attr('y', (e) => scales.y(e.y))
       .attr('height', Math.random() * 200 + 20)
-      .attr(
-        'fill',
-        () =>
-          `rgb(${Math.random() * 255},${Math.random() * 255},${Math.random() * 255})`
-      );
-  }, [plotData, scales]);
+      .attr('fill', randomColor);
+  }, [plotData, scales, randomColor]);
 
   // Scheduler for random updates
   useEffect(() => {
@@ -120,27 +119,24 @@ function RandomSinWaveFun() {
 
   return (
     <Container sx={{ padding: 0 }}>
-      <Box
-        sx={{
-          display: 'block',
-          marginLeft: 'auto',
-          marginRight: 'auto',
-        }}
-      >
-        <svg ref={svgRef} style={{ display: 'block', margin: '0 auto' }} />
-      </Box>
       <Typography
         variant="body2"
         sx={{
-          paddingTop: '300px',
-          fontSize: '0.75rem',
-          maxWidth: '300pt',
           textAlign: 'center',
           margin: '0 auto',
         }}
       >
         A soothing sin wave that changes every 1.3 seconds
       </Typography>
+      <Box
+        sx={{
+          display: 'flex',
+          justifyContent: 'center',
+          alignItems: 'center',
+        }}
+      >
+        <svg ref={svgRef} />
+      </Box>
     </Container>
   );
 }

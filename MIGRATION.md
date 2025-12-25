@@ -51,9 +51,9 @@ Components are listed by complexity (easy → complex)
 #### Simple Components (Pure logic/D3)
 - [x] **RandomSinWaveFun.vue** → RandomSinWaveFun.tsx ✓
 - [x] **MafsOne.vue** → MafsOne.tsx ✓
-- [ ] **MafsTwo.vue** → MafsTwo.jsx (dynamic viz)
-- [ ] **CarbonForteen.vue** → CarbonForteen.jsx
-- [ ] **CovidWastewaterPlot.vue** → CovidWastewaterPlot.jsx
+- [x] **MafsTwo.vue** → MafsTwo.tsx ✓
+- [x] **CarbonForteen.vue** → CarbonForteen.tsx ✓
+- [x] **CovidWastewaterPlot.vue** → CovidWastewaterPlot.tsx ✓
 
 #### Medium Components (UI + D3)
 - [ ] **TomatoSanky.vue** → TomatoSanky.jsx
@@ -63,7 +63,7 @@ Components are listed by complexity (easy → complex)
 - [ ] **GroundwaterBeef.vue** → GroundwaterBeef.jsx
 - [ ] **GwDepletionVid.vue** → GwDepletionVid.jsx
 - [ ] **GwVolCompareVid.vue** → GwVolCompareVid.jsx
-- [ ] **Metronome.vue** → Metronome.jsx
+- [x] **Metronome.vue** → Metronome.tsx ✓
 - [ ] **TimelineResume.vue** → TimelineResume.jsx
 
 #### Complex Components (3D/Advanced)
@@ -196,3 +196,11 @@ npm run dev
 - [Vite Guide](https://vitejs.dev/guide/)
 - [D3 + React Best Practices](https://2019.wattenberger.com/blog/react-and-d3)
 - [React Router v6 Docs](https://reactrouter.com/)
+
+
+# Follow up TODOS I'm noticing:
+- [ ] standardize padding in the gallery
+- [ ] decide if text-on-top or not
+- [ ] remove css and use sx props
+- [ ] transitions on the MAFS things still aint working
+- [ ] pidgeon logo
