@@ -70,6 +70,7 @@
 import tickSound from "../assets/click.mp3"; // Tell webpack this JS file uses this image
 
 export default {
+  name: "MetronomeTool",
   components: {},
   data: () => ({
     bpm: 63,

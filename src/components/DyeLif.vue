@@ -164,7 +164,7 @@
 </template>
 <script>
 export default {
-  name: "model",
+  name: "DyeLif",
   data: () => ({
     startLoading: false,
     loaded1: false,

@@ -83,7 +83,7 @@
 </template>
 <script>
 export default {
-  name: "model",
+  name: "ModelLayer",
   data: () => ({
     startLoading: false,
     loaded: false,

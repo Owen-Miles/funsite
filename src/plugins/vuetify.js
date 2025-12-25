@@ -1,10 +1,16 @@
-import Vue from 'vue';
-import Vuetify from 'vuetify/lib';
+import { createVuetify } from 'vuetify';
+import 'vuetify/styles'; // Import Vuetify styles
+import { aliases, mdi } from 'vuetify/iconsets/mdi'; // Use Material Design Icons
 
-Vue.use(Vuetify);
-
-export default new Vuetify({
-    theme: {
-        dark: false,
+export default createVuetify({
+  icons: {
+    defaultSet: 'mdi',
+    aliases,
+    sets: {
+      mdi,
     },
+  },
+  theme: {
+    defaultTheme: 'light', // Change to 'dark' if you want a dark theme by default
+  },
 });
